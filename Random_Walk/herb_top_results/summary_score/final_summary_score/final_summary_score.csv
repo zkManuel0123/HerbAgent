@@ -1,0 +1,8 @@
+﻿Herb_name,Herb_id,Total_Score,Top_Ingredient_Count,Top_Ingredients,analysis_type
+麻黄（Ephedra）,HERB003658,0.033594873,4,"coumarin, geraniol, herbacetin-3-beta-d-(2-o-beta-d-glucopyra-nosidogluco-pyranoside)-8-beta-d-glucopyranoside, methyl-7-epiganoderate",阳和汤合半夏消瘰丸加减
+白芥子（White Mustard Seed）,HERB000225,0.026953364,1,mustard oil,阳和汤合半夏消瘰丸加减
+浙贝母（bulb of Thunberg Fritillary）,HERB006950,0.026288319,2,"adeninenucleoside, adenosine",阳和汤合半夏消瘰丸加减
+肉桂（Cassia Bark）,HERB004694,0.007996161,2,"2-deoxy-d-ribono-1,4-lactone, coumarin",阳和汤合半夏消瘰丸加减
+玄参（Figwort Root）,HERB006280,0.006434545,2,"adenosine, cis-oleic acid",阳和汤合半夏消瘰丸加减
+半夏（tuber of Pinellia）,HERB000330,0.004625058,1,adenosine,阳和汤合半夏消瘰丸加减
+甘草（Root of Ural Licorice）,HERB001779,0.004353705,1,Artonin E,阳和汤合半夏消瘰丸加减

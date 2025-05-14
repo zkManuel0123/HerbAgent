@@ -1,0 +1,1929 @@
+2024-12-25 12:09:24,616 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:14:04,403 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:17:36,867 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:19:54,221 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:26:18,861 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:30:16,656 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:33:55,937 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:10,198 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:12,620 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:13,361 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:13,893 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:19,026 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:34:19,072 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:34:19,798 - biothings.client - INFO - done.
+2024-12-25 12:34:20,801 - biothings.client - INFO - Finished.
+2024-12-25 12:34:20,801 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:34:21,520 - biothings.client - INFO - done.
+2024-12-25 12:34:22,530 - biothings.client - INFO - Finished.
+2024-12-25 12:34:22,530 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:34:23,232 - biothings.client - INFO - done.
+2024-12-25 12:34:24,234 - biothings.client - INFO - Finished.
+2024-12-25 12:34:24,235 - biothings.client - INFO - Finished.
+2024-12-25 12:34:24,237 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:34:24,916 - biothings.client - INFO - done.
+2024-12-25 12:34:25,919 - biothings.client - INFO - Finished.
+2024-12-25 12:34:25,919 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:34:26,650 - biothings.client - INFO - done.
+2024-12-25 12:34:27,658 - biothings.client - INFO - Finished.
+2024-12-25 12:34:27,658 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:34:28,341 - biothings.client - INFO - done.
+2024-12-25 12:34:29,345 - biothings.client - INFO - Finished.
+2024-12-25 12:34:29,346 - biothings.client - INFO - Finished.
+2024-12-25 12:34:29,346 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:34:30,036 - biothings.client - INFO - done.
+2024-12-25 12:34:31,051 - biothings.client - INFO - Finished.
+2024-12-25 12:34:31,052 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:34:31,748 - biothings.client - INFO - done.
+2024-12-25 12:34:32,751 - biothings.client - INFO - Finished.
+2024-12-25 12:34:32,752 - biothings.client - INFO - Finished.
+2024-12-25 12:34:32,752 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:34:33,429 - biothings.client - INFO - done.
+2024-12-25 12:34:34,433 - biothings.client - INFO - Finished.
+2024-12-25 12:34:34,433 - biothings.client - INFO - querying 1-50...
+2024-12-25 12:34:35,172 - biothings.client - INFO - done.
+2024-12-25 12:34:36,181 - biothings.client - INFO - Finished.
+2024-12-25 12:34:36,181 - biothings.client - WARNING - 3 input query terms found no hit:	['PROSC', 'CCBL2', 'CCBL1']
+2024-12-25 12:34:36,181 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:34:36,184 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:34:36,881 - biothings.client - INFO - done.
+2024-12-25 12:34:37,889 - biothings.client - INFO - Finished.
+2024-12-25 12:34:37,889 - biothings.client - WARNING - 1 input query terms found no hit:	['MUT']
+2024-12-25 12:34:37,889 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:34:37,889 - biothings.client - INFO - querying 1-12...
+2024-12-25 12:34:38,587 - biothings.client - INFO - done.
+2024-12-25 12:34:39,604 - biothings.client - INFO - Finished.
+2024-12-25 12:34:39,604 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:34:40,300 - biothings.client - INFO - done.
+2024-12-25 12:34:41,306 - biothings.client - INFO - Finished.
+2024-12-25 12:34:41,306 - biothings.client - WARNING - 1 input query terms found no hit:	['HARS']
+2024-12-25 12:34:41,307 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:34:41,307 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:34:42,000 - biothings.client - INFO - done.
+2024-12-25 12:34:43,016 - biothings.client - INFO - Finished.
+2024-12-25 12:34:43,016 - biothings.client - INFO - querying 1-15...
+2024-12-25 12:34:43,712 - biothings.client - INFO - done.
+2024-12-25 12:34:44,719 - biothings.client - INFO - Finished.
+2024-12-25 12:34:44,719 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:34:45,420 - biothings.client - INFO - done.
+2024-12-25 12:34:46,436 - biothings.client - INFO - Finished.
+2024-12-25 12:34:46,436 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:34:47,134 - biothings.client - INFO - done.
+2024-12-25 12:34:48,146 - biothings.client - INFO - Finished.
+2024-12-25 12:34:48,146 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:34:48,850 - biothings.client - INFO - done.
+2024-12-25 12:34:49,852 - biothings.client - INFO - Finished.
+2024-12-25 12:34:49,852 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:34:50,531 - biothings.client - INFO - done.
+2024-12-25 12:34:51,547 - biothings.client - INFO - Finished.
+2024-12-25 12:34:51,549 - biothings.client - WARNING - 1 input query terms found no hit:	['KARS']
+2024-12-25 12:34:51,549 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:34:51,549 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:34:53,000 - biothings.client - INFO - done.
+2024-12-25 12:34:54,009 - biothings.client - INFO - Finished.
+2024-12-25 12:34:54,009 - biothings.client - INFO - querying 1-22...
+2024-12-25 12:34:54,734 - biothings.client - INFO - done.
+2024-12-25 12:34:55,735 - biothings.client - INFO - Finished.
+2024-12-25 12:34:55,735 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:34:56,457 - biothings.client - INFO - done.
+2024-12-25 12:34:57,459 - biothings.client - INFO - Finished.
+2024-12-25 12:34:57,460 - biothings.client - INFO - querying 1-19...
+2024-12-25 12:34:58,163 - biothings.client - INFO - done.
+2024-12-25 12:34:59,171 - biothings.client - INFO - Finished.
+2024-12-25 12:34:59,171 - biothings.client - WARNING - 3 input query terms found no hit:	['DARS', 'ADSS', 'ADSSL1']
+2024-12-25 12:34:59,171 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:34:59,172 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:34:59,733 - biothings.client - INFO - Finished.
+2024-12-25 12:34:59,875 - biothings.client - INFO - done.
+2024-12-25 12:35:00,879 - biothings.client - INFO - Finished.
+2024-12-25 12:35:00,879 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:35:01,585 - biothings.client - INFO - done.
+2024-12-25 12:35:02,592 - biothings.client - INFO - Finished.
+2024-12-25 12:35:02,592 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:35:03,300 - biothings.client - INFO - done.
+2024-12-25 12:35:04,314 - biothings.client - INFO - Finished.
+2024-12-25 12:35:04,314 - biothings.client - INFO - querying 1-12...
+2024-12-25 12:35:05,015 - biothings.client - INFO - done.
+2024-12-25 12:35:06,016 - biothings.client - INFO - Finished.
+2024-12-25 12:35:06,016 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:35:06,730 - biothings.client - INFO - done.
+2024-12-25 12:35:07,739 - biothings.client - INFO - Finished.
+2024-12-25 12:35:07,739 - biothings.client - WARNING - 1 input query terms found no hit:	['SARS']
+2024-12-25 12:35:07,739 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:07,740 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:35:08,450 - biothings.client - INFO - done.
+2024-12-25 12:35:09,453 - biothings.client - INFO - Finished.
+2024-12-25 12:35:09,453 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:35:09,543 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 12:35:10,161 - biothings.client - INFO - done.
+2024-12-25 12:35:11,168 - biothings.client - INFO - Finished.
+2024-12-25 12:35:11,169 - biothings.client - WARNING - 1 input query terms found no hit:	['YARS']
+2024-12-25 12:35:11,170 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:11,170 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:11,853 - biothings.client - INFO - done.
+2024-12-25 12:35:12,859 - biothings.client - INFO - Finished.
+2024-12-25 12:35:12,859 - biothings.client - INFO - Finished.
+2024-12-25 12:35:12,860 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:13,544 - biothings.client - INFO - done.
+2024-12-25 12:35:14,557 - biothings.client - INFO - Finished.
+2024-12-25 12:35:14,557 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:15,237 - biothings.client - INFO - done.
+2024-12-25 12:35:16,250 - biothings.client - INFO - Finished.
+2024-12-25 12:35:16,250 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:16,946 - biothings.client - INFO - done.
+2024-12-25 12:35:17,947 - biothings.client - INFO - Finished.
+2024-12-25 12:35:17,947 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:35:18,654 - biothings.client - INFO - done.
+2024-12-25 12:35:19,664 - biothings.client - INFO - Finished.
+2024-12-25 12:35:19,664 - biothings.client - INFO - querying 1-62...
+2024-12-25 12:35:22,830 - biothings.client - INFO - done.
+2024-12-25 12:35:23,846 - biothings.client - INFO - Finished.
+2024-12-25 12:35:23,846 - biothings.client - WARNING - 1 input query terms found no hit:	['EPRS']
+2024-12-25 12:35:23,846 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:23,847 - biothings.client - INFO - querying 1-40...
+2024-12-25 12:35:24,564 - biothings.client - INFO - done.
+2024-12-25 12:35:25,570 - biothings.client - INFO - Finished.
+2024-12-25 12:35:25,571 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:35:26,269 - biothings.client - INFO - done.
+2024-12-25 12:35:27,283 - biothings.client - INFO - Finished.
+2024-12-25 12:35:27,285 - biothings.client - INFO - querying 1-25...
+2024-12-25 12:35:28,010 - biothings.client - INFO - done.
+2024-12-25 12:35:29,020 - biothings.client - INFO - Finished.
+2024-12-25 12:35:29,020 - biothings.client - WARNING - 1 input query terms found no hit:	['GARS']
+2024-12-25 12:35:29,021 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:29,021 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:35:29,724 - biothings.client - INFO - done.
+2024-12-25 12:35:30,737 - biothings.client - INFO - Finished.
+2024-12-25 12:35:30,738 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:35:31,440 - biothings.client - INFO - done.
+2024-12-25 12:35:32,450 - biothings.client - INFO - Finished.
+2024-12-25 12:35:32,451 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:35:33,159 - biothings.client - INFO - done.
+2024-12-25 12:35:34,170 - biothings.client - INFO - Finished.
+2024-12-25 12:35:34,170 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:35:34,872 - biothings.client - INFO - done.
+2024-12-25 12:35:35,886 - biothings.client - INFO - Finished.
+2024-12-25 12:35:35,886 - biothings.client - WARNING - 1 input query terms found no hit:	['LARS']
+2024-12-25 12:35:35,887 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:35,887 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:36,591 - biothings.client - INFO - done.
+2024-12-25 12:35:37,597 - biothings.client - INFO - Finished.
+2024-12-25 12:35:37,597 - biothings.client - WARNING - 1 input query terms found no hit:	['WARS']
+2024-12-25 12:35:37,597 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:37,598 - biothings.client - INFO - querying 1-14...
+2024-12-25 12:35:39,172 - biothings.client - INFO - done.
+2024-12-25 12:35:40,174 - biothings.client - INFO - Finished.
+2024-12-25 12:35:40,174 - biothings.client - WARNING - 1 input query terms found no hit:	['CARS']
+2024-12-25 12:35:40,175 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:40,175 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:35:40,884 - biothings.client - INFO - done.
+2024-12-25 12:35:41,892 - biothings.client - INFO - Finished.
+2024-12-25 12:35:41,892 - biothings.client - INFO - querying 1-28...
+2024-12-25 12:35:42,590 - biothings.client - INFO - done.
+2024-12-25 12:35:43,595 - biothings.client - INFO - Finished.
+2024-12-25 12:35:43,596 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:44,307 - biothings.client - INFO - done.
+2024-12-25 12:35:45,314 - biothings.client - INFO - Finished.
+2024-12-25 12:35:45,314 - biothings.client - INFO - querying 1-13...
+2024-12-25 12:35:46,749 - biothings.client - INFO - done.
+2024-12-25 12:35:47,762 - biothings.client - INFO - Finished.
+2024-12-25 12:35:47,762 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:35:48,440 - biothings.client - INFO - done.
+2024-12-25 12:35:49,456 - biothings.client - INFO - Finished.
+2024-12-25 12:35:49,456 - biothings.client - WARNING - 1 input query terms found no hit:	['TARS']
+2024-12-25 12:35:49,457 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:49,457 - biothings.client - INFO - querying 1-145...
+2024-12-25 12:35:51,004 - biothings.client - INFO - done.
+2024-12-25 12:35:52,013 - biothings.client - INFO - Finished.
+2024-12-25 12:35:52,013 - biothings.client - WARNING - 8 input query terms found no hit:	['MT-ND1', 'MT-ND3', 'MT-ND4', 'MT-ND4L', 'MT-ND5', 'MT-ND2', 'MT-ND6', 'TSTA3']
+2024-12-25 12:35:52,014 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:52,014 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:35:52,705 - biothings.client - INFO - done.
+2024-12-25 12:35:53,710 - biothings.client - INFO - Finished.
+2024-12-25 12:35:53,710 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:35:54,414 - biothings.client - INFO - done.
+2024-12-25 12:35:55,422 - biothings.client - INFO - Finished.
+2024-12-25 12:35:55,422 - biothings.client - INFO - querying 1-14...
+2024-12-25 12:35:56,131 - biothings.client - INFO - done.
+2024-12-25 12:35:57,139 - biothings.client - INFO - Finished.
+2024-12-25 12:35:57,140 - biothings.client - WARNING - 1 input query terms found no hit:	['AARS']
+2024-12-25 12:35:57,141 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:57,141 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:35:57,862 - biothings.client - INFO - done.
+2024-12-25 12:35:58,864 - biothings.client - INFO - Finished.
+2024-12-25 12:35:58,864 - biothings.client - WARNING - 1 input query terms found no hit:	['VARS']
+2024-12-25 12:35:58,864 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:35:58,865 - biothings.client - INFO - querying 1-16...
+2024-12-25 12:35:59,595 - biothings.client - INFO - done.
+2024-12-25 12:36:00,612 - biothings.client - INFO - Finished.
+2024-12-25 12:36:00,612 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:36:01,306 - biothings.client - INFO - done.
+2024-12-25 12:36:02,308 - biothings.client - INFO - Finished.
+2024-12-25 12:36:02,308 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:02,999 - biothings.client - INFO - done.
+2024-12-25 12:36:04,014 - biothings.client - INFO - Finished.
+2024-12-25 12:36:04,014 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:36:04,705 - biothings.client - INFO - done.
+2024-12-25 12:36:05,716 - biothings.client - INFO - Finished.
+2024-12-25 12:36:05,717 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:36:06,410 - biothings.client - INFO - done.
+2024-12-25 12:36:07,419 - biothings.client - INFO - Finished.
+2024-12-25 12:36:07,419 - biothings.client - WARNING - 1 input query terms found no hit:	['IARS']
+2024-12-25 12:36:07,420 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:36:07,420 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:36:08,131 - biothings.client - INFO - done.
+2024-12-25 12:36:09,135 - biothings.client - INFO - Finished.
+2024-12-25 12:36:09,136 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:09,833 - biothings.client - INFO - done.
+2024-12-25 12:36:10,844 - biothings.client - INFO - Finished.
+2024-12-25 12:36:10,844 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:36:11,567 - biothings.client - INFO - done.
+2024-12-25 12:36:12,578 - biothings.client - INFO - Finished.
+2024-12-25 12:36:12,579 - biothings.client - INFO - querying 1-43...
+2024-12-25 12:36:13,303 - biothings.client - INFO - done.
+2024-12-25 12:36:14,309 - biothings.client - INFO - Finished.
+2024-12-25 12:36:14,309 - biothings.client - WARNING - 3 input query terms found no hit:	['ASNA1', 'ADRBK1', 'ADRBK2']
+2024-12-25 12:36:14,310 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:36:14,310 - biothings.client - INFO - querying 1-22...
+2024-12-25 12:36:15,037 - biothings.client - INFO - done.
+2024-12-25 12:36:16,052 - biothings.client - INFO - Finished.
+2024-12-25 12:36:16,052 - biothings.client - WARNING - 3 input query terms found no hit:	['PROSC', 'EPRS', 'PYCRL']
+2024-12-25 12:36:16,052 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:36:16,053 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:36:16,745 - biothings.client - INFO - done.
+2024-12-25 12:36:17,749 - biothings.client - INFO - Finished.
+2024-12-25 12:36:17,749 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:36:18,448 - biothings.client - INFO - done.
+2024-12-25 12:36:19,455 - biothings.client - INFO - Finished.
+2024-12-25 12:36:19,456 - biothings.client - WARNING - 1 input query terms found no hit:	['NARS']
+2024-12-25 12:36:19,456 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:36:19,456 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:20,140 - biothings.client - INFO - done.
+2024-12-25 12:36:21,155 - biothings.client - INFO - Finished.
+2024-12-25 12:36:21,155 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:22,652 - biothings.client - INFO - done.
+2024-12-25 12:36:23,661 - biothings.client - INFO - Finished.
+2024-12-25 12:36:23,662 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:24,363 - biothings.client - INFO - done.
+2024-12-25 12:36:25,376 - biothings.client - INFO - Finished.
+2024-12-25 12:36:25,377 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:26,086 - biothings.client - INFO - done.
+2024-12-25 12:36:27,097 - biothings.client - INFO - Finished.
+2024-12-25 12:36:27,097 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:27,822 - biothings.client - INFO - done.
+2024-12-25 12:36:28,827 - biothings.client - INFO - Finished.
+2024-12-25 12:36:28,827 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:29,516 - biothings.client - INFO - done.
+2024-12-25 12:36:30,530 - biothings.client - INFO - Finished.
+2024-12-25 12:36:30,530 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:31,222 - biothings.client - INFO - done.
+2024-12-25 12:36:32,235 - biothings.client - INFO - Finished.
+2024-12-25 12:36:32,236 - biothings.client - INFO - querying 1-19...
+2024-12-25 12:36:32,945 - biothings.client - INFO - done.
+2024-12-25 12:36:33,951 - biothings.client - INFO - Finished.
+2024-12-25 12:36:33,951 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:34,639 - biothings.client - INFO - done.
+2024-12-25 12:36:35,641 - biothings.client - INFO - Finished.
+2024-12-25 12:36:35,641 - biothings.client - INFO - querying 1-14...
+2024-12-25 12:36:36,359 - biothings.client - INFO - done.
+2024-12-25 12:36:37,377 - biothings.client - INFO - Finished.
+2024-12-25 12:36:37,377 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:38,085 - biothings.client - INFO - done.
+2024-12-25 12:36:39,089 - biothings.client - INFO - Finished.
+2024-12-25 12:36:39,090 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:36:39,811 - biothings.client - INFO - done.
+2024-12-25 12:36:40,812 - biothings.client - INFO - Finished.
+2024-12-25 12:36:40,812 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:41,508 - biothings.client - INFO - done.
+2024-12-25 12:36:42,512 - biothings.client - INFO - Finished.
+2024-12-25 12:36:42,512 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:43,240 - biothings.client - INFO - done.
+2024-12-25 12:36:44,242 - biothings.client - INFO - Finished.
+2024-12-25 12:36:44,243 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:36:44,960 - biothings.client - INFO - done.
+2024-12-25 12:36:45,964 - biothings.client - INFO - Finished.
+2024-12-25 12:36:45,965 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:46,657 - biothings.client - INFO - done.
+2024-12-25 12:36:47,666 - biothings.client - INFO - Finished.
+2024-12-25 12:36:47,666 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:36:48,371 - biothings.client - INFO - done.
+2024-12-25 12:36:49,378 - biothings.client - INFO - Finished.
+2024-12-25 12:36:49,378 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:36:50,573 - biothings.client - INFO - done.
+2024-12-25 12:36:51,587 - biothings.client - INFO - Finished.
+2024-12-25 12:36:51,588 - biothings.client - INFO - querying 1-23...
+2024-12-25 12:36:52,310 - biothings.client - INFO - done.
+2024-12-25 12:36:53,316 - biothings.client - INFO - Finished.
+2024-12-25 12:36:53,316 - biothings.client - INFO - Finished.
+2024-12-25 12:36:53,317 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:54,031 - biothings.client - INFO - done.
+2024-12-25 12:36:55,037 - biothings.client - INFO - Finished.
+2024-12-25 12:36:55,037 - biothings.client - INFO - Finished.
+2024-12-25 12:36:55,037 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:36:55,747 - biothings.client - INFO - done.
+2024-12-25 12:36:56,752 - biothings.client - INFO - Finished.
+2024-12-25 12:36:56,753 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:57,443 - biothings.client - INFO - done.
+2024-12-25 12:36:58,456 - biothings.client - INFO - Finished.
+2024-12-25 12:36:58,456 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:36:59,150 - biothings.client - INFO - done.
+2024-12-25 12:37:00,158 - biothings.client - INFO - Finished.
+2024-12-25 12:37:00,158 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:37:00,852 - biothings.client - INFO - done.
+2024-12-25 12:37:01,864 - biothings.client - INFO - Finished.
+2024-12-25 12:37:01,864 - biothings.client - WARNING - 1 input query terms found no hit:	['MUT']
+2024-12-25 12:37:01,864 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:37:01,864 - biothings.client - INFO - querying 1-35...
+2024-12-25 12:37:02,606 - biothings.client - INFO - done.
+2024-12-25 12:37:03,615 - biothings.client - INFO - Finished.
+2024-12-25 12:37:03,615 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:37:04,297 - biothings.client - INFO - done.
+2024-12-25 12:37:05,308 - biothings.client - INFO - Finished.
+2024-12-25 12:37:05,308 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:05,997 - biothings.client - INFO - done.
+2024-12-25 12:37:07,010 - biothings.client - INFO - Finished.
+2024-12-25 12:37:07,010 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:07,696 - biothings.client - INFO - done.
+2024-12-25 12:37:08,708 - biothings.client - INFO - Finished.
+2024-12-25 12:37:08,708 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:09,932 - biothings.client - INFO - done.
+2024-12-25 12:37:10,939 - biothings.client - INFO - Finished.
+2024-12-25 12:37:10,939 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:11,626 - biothings.client - INFO - done.
+2024-12-25 12:37:12,641 - biothings.client - INFO - Finished.
+2024-12-25 12:37:12,642 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:14,353 - biothings.client - INFO - done.
+2024-12-25 12:37:15,360 - biothings.client - INFO - Finished.
+2024-12-25 12:37:15,360 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:16,048 - biothings.client - INFO - done.
+2024-12-25 12:37:17,056 - biothings.client - INFO - Finished.
+2024-12-25 12:37:17,056 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:17,789 - biothings.client - INFO - done.
+2024-12-25 12:37:18,792 - biothings.client - INFO - Finished.
+2024-12-25 12:37:18,792 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:37:19,489 - biothings.client - INFO - done.
+2024-12-25 12:37:20,494 - biothings.client - INFO - Finished.
+2024-12-25 12:37:20,494 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:21,719 - biothings.client - INFO - done.
+2024-12-25 12:37:22,732 - biothings.client - INFO - Finished.
+2024-12-25 12:37:22,734 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:23,444 - biothings.client - INFO - done.
+2024-12-25 12:37:24,456 - biothings.client - INFO - Finished.
+2024-12-25 12:37:24,456 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:26,254 - biothings.client - INFO - done.
+2024-12-25 12:37:27,269 - biothings.client - INFO - Finished.
+2024-12-25 12:37:27,269 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:27,964 - biothings.client - INFO - done.
+2024-12-25 12:37:28,971 - biothings.client - INFO - Finished.
+2024-12-25 12:37:28,971 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:29,694 - biothings.client - INFO - done.
+2024-12-25 12:37:30,703 - biothings.client - INFO - Finished.
+2024-12-25 12:37:30,704 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:37:31,397 - biothings.client - INFO - done.
+2024-12-25 12:37:32,407 - biothings.client - INFO - Finished.
+2024-12-25 12:37:32,408 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:37:33,126 - biothings.client - INFO - done.
+2024-12-25 12:37:34,133 - biothings.client - INFO - Finished.
+2024-12-25 12:37:34,133 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:34,837 - biothings.client - INFO - done.
+2024-12-25 12:37:35,846 - biothings.client - INFO - Finished.
+2024-12-25 12:37:35,846 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:36,528 - biothings.client - INFO - done.
+2024-12-25 12:37:37,529 - biothings.client - INFO - Finished.
+2024-12-25 12:37:37,530 - biothings.client - INFO - Finished.
+2024-12-25 12:37:37,530 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:37:38,220 - biothings.client - INFO - done.
+2024-12-25 12:37:39,227 - biothings.client - INFO - Finished.
+2024-12-25 12:37:39,227 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:39,924 - biothings.client - INFO - done.
+2024-12-25 12:37:40,938 - biothings.client - INFO - Finished.
+2024-12-25 12:37:40,938 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:41,633 - biothings.client - INFO - done.
+2024-12-25 12:37:42,642 - biothings.client - INFO - Finished.
+2024-12-25 12:37:42,642 - biothings.client - INFO - Finished.
+2024-12-25 12:37:42,643 - biothings.client - INFO - Finished.
+2024-12-25 12:37:42,644 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:43,349 - biothings.client - INFO - done.
+2024-12-25 12:37:44,364 - biothings.client - INFO - Finished.
+2024-12-25 12:37:44,364 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:37:46,054 - biothings.client - INFO - done.
+2024-12-25 12:37:47,063 - biothings.client - INFO - Finished.
+2024-12-25 12:37:47,064 - biothings.client - INFO - querying 1-53...
+2024-12-25 12:37:47,787 - biothings.client - INFO - done.
+2024-12-25 12:37:48,793 - biothings.client - INFO - Finished.
+2024-12-25 12:37:48,794 - biothings.client - INFO - Finished.
+2024-12-25 12:37:48,794 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:49,494 - biothings.client - INFO - done.
+2024-12-25 12:37:50,499 - biothings.client - INFO - Finished.
+2024-12-25 12:37:50,499 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:37:51,209 - biothings.client - INFO - done.
+2024-12-25 12:37:52,212 - biothings.client - INFO - Finished.
+2024-12-25 12:37:52,212 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:37:52,920 - biothings.client - INFO - done.
+2024-12-25 12:37:53,933 - biothings.client - INFO - Finished.
+2024-12-25 12:37:53,934 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:37:54,630 - biothings.client - INFO - done.
+2024-12-25 12:37:55,637 - biothings.client - INFO - Finished.
+2024-12-25 12:37:55,637 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:56,333 - biothings.client - INFO - done.
+2024-12-25 12:37:57,334 - biothings.client - INFO - Finished.
+2024-12-25 12:37:57,334 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:37:58,037 - biothings.client - INFO - done.
+2024-12-25 12:37:59,052 - biothings.client - INFO - Finished.
+2024-12-25 12:37:59,052 - biothings.client - INFO - Finished.
+2024-12-25 12:37:59,052 - biothings.client - INFO - querying 1-37...
+2024-12-25 12:37:59,766 - biothings.client - INFO - done.
+2024-12-25 12:38:00,775 - biothings.client - INFO - Finished.
+2024-12-25 12:38:00,775 - biothings.client - INFO - Finished.
+2024-12-25 12:38:00,775 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:01,480 - biothings.client - INFO - done.
+2024-12-25 12:38:02,484 - biothings.client - INFO - Finished.
+2024-12-25 12:38:02,484 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:03,178 - biothings.client - INFO - done.
+2024-12-25 12:38:04,181 - biothings.client - INFO - Finished.
+2024-12-25 12:38:04,181 - biothings.client - INFO - querying 1-21...
+2024-12-25 12:38:04,887 - biothings.client - INFO - done.
+2024-12-25 12:38:05,891 - biothings.client - INFO - Finished.
+2024-12-25 12:38:05,891 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:38:06,598 - biothings.client - INFO - done.
+2024-12-25 12:38:07,603 - biothings.client - INFO - Finished.
+2024-12-25 12:38:07,603 - biothings.client - INFO - querying 1-31...
+2024-12-25 12:38:08,332 - biothings.client - INFO - done.
+2024-12-25 12:38:09,336 - biothings.client - INFO - Finished.
+2024-12-25 12:38:09,336 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:38:10,038 - biothings.client - INFO - done.
+2024-12-25 12:38:11,050 - biothings.client - INFO - Finished.
+2024-12-25 12:38:11,050 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:38:11,768 - biothings.client - INFO - done.
+2024-12-25 12:38:12,774 - biothings.client - INFO - Finished.
+2024-12-25 12:38:12,774 - biothings.client - INFO - querying 1-31...
+2024-12-25 12:38:13,484 - biothings.client - INFO - done.
+2024-12-25 12:38:14,500 - biothings.client - INFO - Finished.
+2024-12-25 12:38:14,501 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:38:15,207 - biothings.client - INFO - done.
+2024-12-25 12:38:16,222 - biothings.client - INFO - Finished.
+2024-12-25 12:38:16,223 - biothings.client - INFO - querying 1-21...
+2024-12-25 12:38:16,936 - biothings.client - INFO - done.
+2024-12-25 12:38:17,947 - biothings.client - INFO - Finished.
+2024-12-25 12:38:17,947 - biothings.client - INFO - Finished.
+2024-12-25 12:38:17,947 - biothings.client - INFO - Finished.
+2024-12-25 12:38:17,947 - biothings.client - INFO - Finished.
+2024-12-25 12:38:17,948 - biothings.client - INFO - querying 1-34...
+2024-12-25 12:38:18,658 - biothings.client - INFO - done.
+2024-12-25 12:38:19,659 - biothings.client - INFO - Finished.
+2024-12-25 12:38:19,660 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:20,354 - biothings.client - INFO - done.
+2024-12-25 12:38:21,369 - biothings.client - INFO - Finished.
+2024-12-25 12:38:21,369 - biothings.client - INFO - Finished.
+2024-12-25 12:38:21,369 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:38:22,335 - biothings.client - INFO - done.
+2024-12-25 12:38:23,345 - biothings.client - INFO - Finished.
+2024-12-25 12:38:23,345 - biothings.client - INFO - Finished.
+2024-12-25 12:38:23,346 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:38:25,052 - biothings.client - INFO - done.
+2024-12-25 12:38:26,064 - biothings.client - INFO - Finished.
+2024-12-25 12:38:26,065 - biothings.client - INFO - Finished.
+2024-12-25 12:38:26,065 - biothings.client - INFO - Finished.
+2024-12-25 12:38:26,065 - biothings.client - INFO - Finished.
+2024-12-25 12:38:26,065 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:26,789 - biothings.client - INFO - done.
+2024-12-25 12:38:27,799 - biothings.client - INFO - Finished.
+2024-12-25 12:38:27,799 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:28,491 - biothings.client - INFO - done.
+2024-12-25 12:38:29,501 - biothings.client - INFO - Finished.
+2024-12-25 12:38:29,502 - biothings.client - INFO - Finished.
+2024-12-25 12:38:29,502 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:38:30,212 - biothings.client - INFO - done.
+2024-12-25 12:38:31,216 - biothings.client - INFO - Finished.
+2024-12-25 12:38:31,216 - biothings.client - INFO - Finished.
+2024-12-25 12:38:31,217 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:38:31,923 - biothings.client - INFO - done.
+2024-12-25 12:38:32,926 - biothings.client - INFO - Finished.
+2024-12-25 12:38:32,926 - biothings.client - INFO - Finished.
+2024-12-25 12:38:32,927 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:38:33,625 - biothings.client - INFO - done.
+2024-12-25 12:38:34,640 - biothings.client - INFO - Finished.
+2024-12-25 12:38:34,640 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:35,337 - biothings.client - INFO - done.
+2024-12-25 12:38:36,345 - biothings.client - INFO - Finished.
+2024-12-25 12:38:36,345 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:38:37,038 - biothings.client - INFO - done.
+2024-12-25 12:38:38,049 - biothings.client - INFO - Finished.
+2024-12-25 12:38:38,049 - biothings.client - INFO - Finished.
+2024-12-25 12:38:38,049 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:38,743 - biothings.client - INFO - done.
+2024-12-25 12:38:39,755 - biothings.client - INFO - Finished.
+2024-12-25 12:38:39,755 - biothings.client - INFO - querying 1-30...
+2024-12-25 12:38:40,476 - biothings.client - INFO - done.
+2024-12-25 12:38:41,484 - biothings.client - INFO - Finished.
+2024-12-25 12:38:41,484 - biothings.client - INFO - Finished.
+2024-12-25 12:38:41,484 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:42,180 - biothings.client - INFO - done.
+2024-12-25 12:38:43,190 - biothings.client - INFO - Finished.
+2024-12-25 12:38:43,190 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:38:43,902 - biothings.client - INFO - done.
+2024-12-25 12:38:44,905 - biothings.client - INFO - Finished.
+2024-12-25 12:38:44,905 - biothings.client - INFO - querying 1-15...
+2024-12-25 12:38:45,627 - biothings.client - INFO - done.
+2024-12-25 12:38:46,636 - biothings.client - INFO - Finished.
+2024-12-25 12:38:46,636 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:47,355 - biothings.client - INFO - done.
+2024-12-25 12:38:48,361 - biothings.client - INFO - Finished.
+2024-12-25 12:38:48,361 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:38:49,056 - biothings.client - INFO - done.
+2024-12-25 12:38:50,063 - biothings.client - INFO - Finished.
+2024-12-25 12:38:50,063 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:38:50,779 - biothings.client - INFO - done.
+2024-12-25 12:38:51,782 - biothings.client - INFO - Finished.
+2024-12-25 12:38:51,782 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:38:52,486 - biothings.client - INFO - done.
+2024-12-25 12:38:53,496 - biothings.client - INFO - Finished.
+2024-12-25 12:38:53,496 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:38:54,189 - biothings.client - INFO - done.
+2024-12-25 12:38:55,202 - biothings.client - INFO - Finished.
+2024-12-25 12:38:55,202 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:38:55,903 - biothings.client - INFO - done.
+2024-12-25 12:38:56,908 - biothings.client - INFO - Finished.
+2024-12-25 12:38:56,908 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:38:57,602 - biothings.client - INFO - done.
+2024-12-25 12:38:58,606 - biothings.client - INFO - Finished.
+2024-12-25 12:38:58,606 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:38:59,303 - biothings.client - INFO - done.
+2024-12-25 12:39:00,313 - biothings.client - INFO - Finished.
+2024-12-25 12:39:00,314 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:01,014 - biothings.client - INFO - done.
+2024-12-25 12:39:02,020 - biothings.client - INFO - Finished.
+2024-12-25 12:39:02,020 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:02,713 - biothings.client - INFO - done.
+2024-12-25 12:39:03,723 - biothings.client - INFO - Finished.
+2024-12-25 12:39:03,724 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:04,421 - biothings.client - INFO - done.
+2024-12-25 12:39:05,424 - biothings.client - INFO - Finished.
+2024-12-25 12:39:05,424 - biothings.client - INFO - querying 1-12...
+2024-12-25 12:39:06,122 - biothings.client - INFO - done.
+2024-12-25 12:39:07,138 - biothings.client - INFO - Finished.
+2024-12-25 12:39:07,139 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:07,837 - biothings.client - INFO - done.
+2024-12-25 12:39:08,846 - biothings.client - INFO - Finished.
+2024-12-25 12:39:08,846 - biothings.client - INFO - Finished.
+2024-12-25 12:39:08,846 - biothings.client - INFO - querying 1-18...
+2024-12-25 12:39:09,555 - biothings.client - INFO - done.
+2024-12-25 12:39:10,564 - biothings.client - INFO - Finished.
+2024-12-25 12:39:10,565 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:11,247 - biothings.client - INFO - done.
+2024-12-25 12:39:12,253 - biothings.client - INFO - Finished.
+2024-12-25 12:39:12,253 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:12,962 - biothings.client - INFO - done.
+2024-12-25 12:39:13,971 - biothings.client - INFO - Finished.
+2024-12-25 12:39:13,971 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:39:14,687 - biothings.client - INFO - done.
+2024-12-25 12:39:15,702 - biothings.client - INFO - Finished.
+2024-12-25 12:39:15,702 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:16,396 - biothings.client - INFO - done.
+2024-12-25 12:39:17,399 - biothings.client - INFO - Finished.
+2024-12-25 12:39:17,399 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:18,109 - biothings.client - INFO - done.
+2024-12-25 12:39:19,116 - biothings.client - INFO - Finished.
+2024-12-25 12:39:19,116 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:39:19,818 - biothings.client - INFO - done.
+2024-12-25 12:39:20,827 - biothings.client - INFO - Finished.
+2024-12-25 12:39:20,827 - biothings.client - INFO - Finished.
+2024-12-25 12:39:20,828 - biothings.client - INFO - Finished.
+2024-12-25 12:39:20,828 - biothings.client - INFO - Finished.
+2024-12-25 12:39:20,828 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:22,530 - biothings.client - INFO - done.
+2024-12-25 12:39:23,534 - biothings.client - INFO - Finished.
+2024-12-25 12:39:23,535 - biothings.client - INFO - Finished.
+2024-12-25 12:39:23,535 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:24,238 - biothings.client - INFO - done.
+2024-12-25 12:39:25,254 - biothings.client - INFO - Finished.
+2024-12-25 12:39:25,255 - biothings.client - INFO - Finished.
+2024-12-25 12:39:25,255 - biothings.client - INFO - querying 1-21...
+2024-12-25 12:39:25,956 - biothings.client - INFO - done.
+2024-12-25 12:39:26,973 - biothings.client - INFO - Finished.
+2024-12-25 12:39:26,973 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:39:27,672 - biothings.client - INFO - done.
+2024-12-25 12:39:28,688 - biothings.client - INFO - Finished.
+2024-12-25 12:39:28,688 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:39:29,408 - biothings.client - INFO - done.
+2024-12-25 12:39:30,420 - biothings.client - INFO - Finished.
+2024-12-25 12:39:30,420 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:31,103 - biothings.client - INFO - done.
+2024-12-25 12:39:32,113 - biothings.client - INFO - Finished.
+2024-12-25 12:39:32,114 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:39:32,801 - biothings.client - INFO - done.
+2024-12-25 12:39:33,814 - biothings.client - INFO - Finished.
+2024-12-25 12:39:33,814 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:39:34,503 - biothings.client - INFO - done.
+2024-12-25 12:39:35,518 - biothings.client - INFO - Finished.
+2024-12-25 12:39:35,518 - biothings.client - INFO - querying 1-29...
+2024-12-25 12:39:36,220 - biothings.client - INFO - done.
+2024-12-25 12:39:37,224 - biothings.client - INFO - Finished.
+2024-12-25 12:39:37,224 - biothings.client - INFO - querying 1-23...
+2024-12-25 12:39:37,930 - biothings.client - INFO - done.
+2024-12-25 12:39:38,939 - biothings.client - INFO - Finished.
+2024-12-25 12:39:38,939 - biothings.client - INFO - Finished.
+2024-12-25 12:39:38,940 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:39:39,640 - biothings.client - INFO - done.
+2024-12-25 12:39:40,657 - biothings.client - INFO - Finished.
+2024-12-25 12:39:40,658 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:39:41,370 - biothings.client - INFO - done.
+2024-12-25 12:39:42,379 - biothings.client - INFO - Finished.
+2024-12-25 12:39:42,379 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:43,093 - biothings.client - INFO - done.
+2024-12-25 12:39:44,109 - biothings.client - INFO - Finished.
+2024-12-25 12:39:44,109 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:39:44,797 - biothings.client - INFO - done.
+2024-12-25 12:39:45,801 - biothings.client - INFO - Finished.
+2024-12-25 12:39:45,802 - biothings.client - INFO - Finished.
+2024-12-25 12:39:45,802 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:39:46,489 - biothings.client - INFO - done.
+2024-12-25 12:39:47,501 - biothings.client - INFO - Finished.
+2024-12-25 12:39:47,502 - biothings.client - INFO - querying 1-34...
+2024-12-25 12:39:48,216 - biothings.client - INFO - done.
+2024-12-25 12:39:49,225 - biothings.client - INFO - Finished.
+2024-12-25 12:39:49,226 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:49,920 - biothings.client - INFO - done.
+2024-12-25 12:39:50,923 - biothings.client - INFO - Finished.
+2024-12-25 12:39:50,923 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:51,615 - biothings.client - INFO - done.
+2024-12-25 12:39:52,632 - biothings.client - INFO - Finished.
+2024-12-25 12:39:52,633 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:53,325 - biothings.client - INFO - done.
+2024-12-25 12:39:54,327 - biothings.client - INFO - Finished.
+2024-12-25 12:39:54,327 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:39:55,025 - biothings.client - INFO - done.
+2024-12-25 12:39:56,032 - biothings.client - INFO - Finished.
+2024-12-25 12:39:56,032 - biothings.client - INFO - Finished.
+2024-12-25 12:39:56,033 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:39:56,718 - biothings.client - INFO - done.
+2024-12-25 12:39:57,721 - biothings.client - INFO - Finished.
+2024-12-25 12:39:57,721 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:39:58,406 - biothings.client - INFO - done.
+2024-12-25 12:39:59,420 - biothings.client - INFO - Finished.
+2024-12-25 12:39:59,420 - biothings.client - INFO - Finished.
+2024-12-25 12:39:59,420 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:40:00,127 - biothings.client - INFO - done.
+2024-12-25 12:40:01,132 - biothings.client - INFO - Finished.
+2024-12-25 12:40:01,132 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:40:01,860 - biothings.client - INFO - done.
+2024-12-25 12:40:02,873 - biothings.client - INFO - Finished.
+2024-12-25 12:40:02,874 - biothings.client - INFO - querying 1-15...
+2024-12-25 12:40:03,608 - biothings.client - INFO - done.
+2024-12-25 12:40:04,621 - biothings.client - INFO - Finished.
+2024-12-25 12:40:04,621 - biothings.client - INFO - querying 1-32...
+2024-12-25 12:40:05,352 - biothings.client - INFO - done.
+2024-12-25 12:40:06,366 - biothings.client - INFO - Finished.
+2024-12-25 12:40:06,366 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:07,059 - biothings.client - INFO - done.
+2024-12-25 12:40:08,062 - biothings.client - INFO - Finished.
+2024-12-25 12:40:08,062 - biothings.client - INFO - Finished.
+2024-12-25 12:40:08,062 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:08,746 - biothings.client - INFO - done.
+2024-12-25 12:40:09,755 - biothings.client - INFO - Finished.
+2024-12-25 12:40:09,755 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:10,462 - biothings.client - INFO - done.
+2024-12-25 12:40:11,471 - biothings.client - INFO - Finished.
+2024-12-25 12:40:11,471 - biothings.client - INFO - Finished.
+2024-12-25 12:40:11,472 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:40:12,164 - biothings.client - INFO - done.
+2024-12-25 12:40:13,171 - biothings.client - INFO - Finished.
+2024-12-25 12:40:13,171 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:13,869 - biothings.client - INFO - done.
+2024-12-25 12:40:14,874 - biothings.client - INFO - Finished.
+2024-12-25 12:40:14,874 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:40:15,581 - biothings.client - INFO - done.
+2024-12-25 12:40:16,585 - biothings.client - INFO - Finished.
+2024-12-25 12:40:16,585 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:17,277 - biothings.client - INFO - done.
+2024-12-25 12:40:18,292 - biothings.client - INFO - Finished.
+2024-12-25 12:40:18,292 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:19,260 - biothings.client - INFO - done.
+2024-12-25 12:40:20,267 - biothings.client - INFO - Finished.
+2024-12-25 12:40:20,267 - biothings.client - INFO - Finished.
+2024-12-25 12:40:20,267 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:40:21,241 - biothings.client - INFO - done.
+2024-12-25 12:40:22,248 - biothings.client - INFO - Finished.
+2024-12-25 12:40:22,248 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:23,481 - biothings.client - INFO - done.
+2024-12-25 12:40:24,484 - biothings.client - INFO - Finished.
+2024-12-25 12:40:24,485 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:25,455 - biothings.client - INFO - done.
+2024-12-25 12:40:26,470 - biothings.client - INFO - Finished.
+2024-12-25 12:40:26,471 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:40:27,187 - biothings.client - INFO - done.
+2024-12-25 12:40:28,188 - biothings.client - INFO - Finished.
+2024-12-25 12:40:28,188 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:40:28,869 - biothings.client - INFO - done.
+2024-12-25 12:40:29,870 - biothings.client - INFO - Finished.
+2024-12-25 12:40:29,871 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:30,552 - biothings.client - INFO - done.
+2024-12-25 12:40:31,563 - biothings.client - INFO - Finished.
+2024-12-25 12:40:31,563 - biothings.client - INFO - Finished.
+2024-12-25 12:40:31,563 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:32,268 - biothings.client - INFO - done.
+2024-12-25 12:40:33,281 - biothings.client - INFO - Finished.
+2024-12-25 12:40:33,281 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:33,986 - biothings.client - INFO - done.
+2024-12-25 12:40:34,994 - biothings.client - INFO - Finished.
+2024-12-25 12:40:34,995 - biothings.client - INFO - Finished.
+2024-12-25 12:40:34,995 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:35,723 - biothings.client - INFO - done.
+2024-12-25 12:40:36,734 - biothings.client - INFO - Finished.
+2024-12-25 12:40:36,734 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:37,460 - biothings.client - INFO - done.
+2024-12-25 12:40:38,466 - biothings.client - INFO - Finished.
+2024-12-25 12:40:38,466 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:39,157 - biothings.client - INFO - done.
+2024-12-25 12:40:40,170 - biothings.client - INFO - Finished.
+2024-12-25 12:40:40,170 - biothings.client - INFO - Finished.
+2024-12-25 12:40:40,170 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:40:40,867 - biothings.client - INFO - done.
+2024-12-25 12:40:41,870 - biothings.client - INFO - Finished.
+2024-12-25 12:40:41,870 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:42,566 - biothings.client - INFO - done.
+2024-12-25 12:40:43,572 - biothings.client - INFO - Finished.
+2024-12-25 12:40:43,572 - biothings.client - INFO - Finished.
+2024-12-25 12:40:43,572 - biothings.client - INFO - querying 1-28...
+2024-12-25 12:40:44,286 - biothings.client - INFO - done.
+2024-12-25 12:40:45,299 - biothings.client - INFO - Finished.
+2024-12-25 12:40:45,299 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:40:45,998 - biothings.client - INFO - done.
+2024-12-25 12:40:47,011 - biothings.client - INFO - Finished.
+2024-12-25 12:40:47,012 - biothings.client - INFO - Finished.
+2024-12-25 12:40:47,013 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:40:47,709 - biothings.client - INFO - done.
+2024-12-25 12:40:48,717 - biothings.client - INFO - Finished.
+2024-12-25 12:40:48,717 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:40:49,427 - biothings.client - INFO - done.
+2024-12-25 12:40:50,433 - biothings.client - INFO - Finished.
+2024-12-25 12:40:50,433 - biothings.client - INFO - querying 1-13...
+2024-12-25 12:40:51,892 - biothings.client - INFO - done.
+2024-12-25 12:40:52,900 - biothings.client - INFO - Finished.
+2024-12-25 12:40:52,900 - biothings.client - INFO - Finished.
+2024-12-25 12:40:52,901 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:40:53,604 - biothings.client - INFO - done.
+2024-12-25 12:40:54,606 - biothings.client - INFO - Finished.
+2024-12-25 12:40:54,606 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:40:55,310 - biothings.client - INFO - done.
+2024-12-25 12:40:56,319 - biothings.client - INFO - Finished.
+2024-12-25 12:40:56,319 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:40:57,011 - biothings.client - INFO - done.
+2024-12-25 12:40:58,023 - biothings.client - INFO - Finished.
+2024-12-25 12:40:58,023 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:40:58,752 - biothings.client - INFO - done.
+2024-12-25 12:40:59,766 - biothings.client - INFO - Finished.
+2024-12-25 12:40:59,766 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:41:00,471 - biothings.client - INFO - done.
+2024-12-25 12:41:01,481 - biothings.client - INFO - Finished.
+2024-12-25 12:41:01,481 - biothings.client - INFO - Finished.
+2024-12-25 12:41:01,481 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:41:02,185 - biothings.client - INFO - done.
+2024-12-25 12:41:03,191 - biothings.client - INFO - Finished.
+2024-12-25 12:41:03,191 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:03,894 - biothings.client - INFO - done.
+2024-12-25 12:41:04,900 - biothings.client - INFO - Finished.
+2024-12-25 12:41:04,900 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:05,595 - biothings.client - INFO - done.
+2024-12-25 12:41:06,602 - biothings.client - INFO - Finished.
+2024-12-25 12:41:06,602 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:41:07,299 - biothings.client - INFO - done.
+2024-12-25 12:41:08,309 - biothings.client - INFO - Finished.
+2024-12-25 12:41:08,310 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:41:09,004 - biothings.client - INFO - done.
+2024-12-25 12:41:10,016 - biothings.client - INFO - Finished.
+2024-12-25 12:41:10,016 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:41:10,739 - biothings.client - INFO - done.
+2024-12-25 12:41:11,749 - biothings.client - INFO - Finished.
+2024-12-25 12:41:11,750 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:41:12,985 - biothings.client - INFO - done.
+2024-12-25 12:41:13,999 - biothings.client - INFO - Finished.
+2024-12-25 12:41:13,999 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:41:14,692 - biothings.client - INFO - done.
+2024-12-25 12:41:15,704 - biothings.client - INFO - Finished.
+2024-12-25 12:41:15,704 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:41:16,399 - biothings.client - INFO - done.
+2024-12-25 12:41:17,404 - biothings.client - INFO - Finished.
+2024-12-25 12:41:17,404 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:18,093 - biothings.client - INFO - done.
+2024-12-25 12:41:19,094 - biothings.client - INFO - Finished.
+2024-12-25 12:41:19,096 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:41:19,790 - biothings.client - INFO - done.
+2024-12-25 12:41:20,795 - biothings.client - INFO - Finished.
+2024-12-25 12:41:20,795 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:41:21,497 - biothings.client - INFO - done.
+2024-12-25 12:41:22,511 - biothings.client - INFO - Finished.
+2024-12-25 12:41:22,511 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:23,190 - biothings.client - INFO - done.
+2024-12-25 12:41:24,206 - biothings.client - INFO - Finished.
+2024-12-25 12:41:24,206 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:24,918 - biothings.client - INFO - done.
+2024-12-25 12:41:25,921 - biothings.client - INFO - Finished.
+2024-12-25 12:41:25,921 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:41:26,633 - biothings.client - INFO - done.
+2024-12-25 12:41:27,641 - biothings.client - INFO - Finished.
+2024-12-25 12:41:27,641 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:41:28,849 - biothings.client - INFO - done.
+2024-12-25 12:41:29,863 - biothings.client - INFO - Finished.
+2024-12-25 12:41:29,863 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:41:30,559 - biothings.client - INFO - done.
+2024-12-25 12:41:31,565 - biothings.client - INFO - Finished.
+2024-12-25 12:41:31,566 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:32,276 - biothings.client - INFO - done.
+2024-12-25 12:41:33,280 - biothings.client - INFO - Finished.
+2024-12-25 12:41:33,280 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:41:33,981 - biothings.client - INFO - done.
+2024-12-25 12:41:34,990 - biothings.client - INFO - Finished.
+2024-12-25 12:41:34,990 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:41:35,688 - biothings.client - INFO - done.
+2024-12-25 12:41:36,689 - biothings.client - INFO - Finished.
+2024-12-25 12:41:36,689 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:41:37,384 - biothings.client - INFO - done.
+2024-12-25 12:41:38,389 - biothings.client - INFO - Finished.
+2024-12-25 12:41:38,389 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:41:39,101 - biothings.client - INFO - done.
+2024-12-25 12:41:40,113 - biothings.client - INFO - Finished.
+2024-12-25 12:41:40,113 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:41:40,811 - biothings.client - INFO - done.
+2024-12-25 12:41:41,818 - biothings.client - INFO - Finished.
+2024-12-25 12:41:41,818 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:42,500 - biothings.client - INFO - done.
+2024-12-25 12:41:43,514 - biothings.client - INFO - Finished.
+2024-12-25 12:41:43,514 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:41:44,203 - biothings.client - INFO - done.
+2024-12-25 12:41:45,217 - biothings.client - INFO - Finished.
+2024-12-25 12:41:45,217 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:41:45,910 - biothings.client - INFO - done.
+2024-12-25 12:41:46,922 - biothings.client - INFO - Finished.
+2024-12-25 12:41:46,922 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:47,620 - biothings.client - INFO - done.
+2024-12-25 12:41:48,625 - biothings.client - INFO - Finished.
+2024-12-25 12:41:48,625 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:41:49,343 - biothings.client - INFO - done.
+2024-12-25 12:41:50,357 - biothings.client - INFO - Finished.
+2024-12-25 12:41:50,357 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:41:51,045 - biothings.client - INFO - done.
+2024-12-25 12:41:52,048 - biothings.client - INFO - Finished.
+2024-12-25 12:41:52,049 - biothings.client - INFO - Finished.
+2024-12-25 12:41:52,049 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:41:52,760 - biothings.client - INFO - done.
+2024-12-25 12:41:53,763 - biothings.client - INFO - Finished.
+2024-12-25 12:41:53,763 - biothings.client - INFO - querying 1-33...
+2024-12-25 12:41:54,478 - biothings.client - INFO - done.
+2024-12-25 12:41:55,489 - biothings.client - INFO - Finished.
+2024-12-25 12:41:55,490 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:41:56,688 - biothings.client - INFO - done.
+2024-12-25 12:41:57,697 - biothings.client - INFO - Finished.
+2024-12-25 12:41:57,698 - biothings.client - INFO - Finished.
+2024-12-25 12:41:57,698 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:41:58,384 - biothings.client - INFO - done.
+2024-12-25 12:41:59,387 - biothings.client - INFO - Finished.
+2024-12-25 12:41:59,388 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:42:00,096 - biothings.client - INFO - done.
+2024-12-25 12:42:01,110 - biothings.client - INFO - Finished.
+2024-12-25 12:42:01,110 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:42:01,839 - biothings.client - INFO - done.
+2024-12-25 12:42:02,850 - biothings.client - INFO - Finished.
+2024-12-25 12:42:02,850 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:03,556 - biothings.client - INFO - done.
+2024-12-25 12:42:04,570 - biothings.client - INFO - Finished.
+2024-12-25 12:42:04,570 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:42:05,271 - biothings.client - INFO - done.
+2024-12-25 12:42:06,279 - biothings.client - INFO - Finished.
+2024-12-25 12:42:06,279 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:06,989 - biothings.client - INFO - done.
+2024-12-25 12:42:07,998 - biothings.client - INFO - Finished.
+2024-12-25 12:42:07,998 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:08,698 - biothings.client - INFO - done.
+2024-12-25 12:42:09,711 - biothings.client - INFO - Finished.
+2024-12-25 12:42:09,711 - biothings.client - INFO - querying 1-18...
+2024-12-25 12:42:10,409 - biothings.client - INFO - done.
+2024-12-25 12:42:11,418 - biothings.client - INFO - Finished.
+2024-12-25 12:42:11,418 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:12,105 - biothings.client - INFO - done.
+2024-12-25 12:42:13,109 - biothings.client - INFO - Finished.
+2024-12-25 12:42:13,109 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:42:13,793 - biothings.client - INFO - done.
+2024-12-25 12:42:14,795 - biothings.client - INFO - Finished.
+2024-12-25 12:42:14,795 - biothings.client - INFO - querying 1-38...
+2024-12-25 12:42:15,518 - biothings.client - INFO - done.
+2024-12-25 12:42:16,534 - biothings.client - INFO - Finished.
+2024-12-25 12:42:16,535 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:42:17,220 - biothings.client - INFO - done.
+2024-12-25 12:42:18,232 - biothings.client - INFO - Finished.
+2024-12-25 12:42:18,232 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:18,919 - biothings.client - INFO - done.
+2024-12-25 12:42:19,936 - biothings.client - INFO - Finished.
+2024-12-25 12:42:19,936 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:42:20,648 - biothings.client - INFO - done.
+2024-12-25 12:42:21,653 - biothings.client - INFO - Finished.
+2024-12-25 12:42:21,653 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:42:22,353 - biothings.client - INFO - done.
+2024-12-25 12:42:23,369 - biothings.client - INFO - Finished.
+2024-12-25 12:42:23,371 - biothings.client - INFO - Finished.
+2024-12-25 12:42:23,371 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:24,072 - biothings.client - INFO - done.
+2024-12-25 12:42:25,083 - biothings.client - INFO - Finished.
+2024-12-25 12:42:25,083 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:42:25,784 - biothings.client - INFO - done.
+2024-12-25 12:42:26,792 - biothings.client - INFO - Finished.
+2024-12-25 12:42:26,792 - biothings.client - WARNING - 1 input query terms found no hit:	['MGEA5']
+2024-12-25 12:42:26,792 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:42:26,793 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:27,504 - biothings.client - INFO - done.
+2024-12-25 12:42:28,512 - biothings.client - INFO - Finished.
+2024-12-25 12:42:28,512 - biothings.client - INFO - Finished.
+2024-12-25 12:42:28,512 - biothings.client - INFO - querying 1-11...
+2024-12-25 12:42:29,210 - biothings.client - INFO - done.
+2024-12-25 12:42:30,214 - biothings.client - INFO - Finished.
+2024-12-25 12:42:30,216 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:30,912 - biothings.client - INFO - done.
+2024-12-25 12:42:31,922 - biothings.client - INFO - Finished.
+2024-12-25 12:42:31,923 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:42:32,621 - biothings.client - INFO - done.
+2024-12-25 12:42:33,637 - biothings.client - INFO - Finished.
+2024-12-25 12:42:33,638 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:42:34,346 - biothings.client - INFO - done.
+2024-12-25 12:42:35,349 - biothings.client - INFO - Finished.
+2024-12-25 12:42:35,350 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:42:36,073 - biothings.client - INFO - done.
+2024-12-25 12:42:37,076 - biothings.client - INFO - Finished.
+2024-12-25 12:42:37,076 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:42:37,763 - biothings.client - INFO - done.
+2024-12-25 12:42:38,764 - biothings.client - INFO - Finished.
+2024-12-25 12:42:38,765 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:39,453 - biothings.client - INFO - done.
+2024-12-25 12:42:40,468 - biothings.client - INFO - Finished.
+2024-12-25 12:42:40,468 - biothings.client - INFO - Finished.
+2024-12-25 12:42:40,470 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:41,150 - biothings.client - INFO - done.
+2024-12-25 12:42:42,166 - biothings.client - INFO - Finished.
+2024-12-25 12:42:42,167 - biothings.client - INFO - Finished.
+2024-12-25 12:42:42,167 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:42:42,851 - biothings.client - INFO - done.
+2024-12-25 12:42:43,856 - biothings.client - INFO - Finished.
+2024-12-25 12:42:43,857 - biothings.client - INFO - Finished.
+2024-12-25 12:42:43,858 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:44,555 - biothings.client - INFO - done.
+2024-12-25 12:42:45,567 - biothings.client - INFO - Finished.
+2024-12-25 12:42:45,567 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:46,271 - biothings.client - INFO - done.
+2024-12-25 12:42:47,283 - biothings.client - INFO - Finished.
+2024-12-25 12:42:47,285 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:47,996 - biothings.client - INFO - done.
+2024-12-25 12:42:49,003 - biothings.client - INFO - Finished.
+2024-12-25 12:42:49,004 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:49,719 - biothings.client - INFO - done.
+2024-12-25 12:42:50,732 - biothings.client - INFO - Finished.
+2024-12-25 12:42:50,734 - biothings.client - INFO - Finished.
+2024-12-25 12:42:50,734 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:42:51,449 - biothings.client - INFO - done.
+2024-12-25 12:42:52,452 - biothings.client - INFO - Finished.
+2024-12-25 12:42:52,452 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:42:53,141 - biothings.client - INFO - done.
+2024-12-25 12:42:54,156 - biothings.client - INFO - Finished.
+2024-12-25 12:42:54,156 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:42:54,872 - biothings.client - INFO - done.
+2024-12-25 12:42:55,886 - biothings.client - INFO - Finished.
+2024-12-25 12:42:55,886 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:42:56,579 - biothings.client - INFO - done.
+2024-12-25 12:42:57,592 - biothings.client - INFO - Finished.
+2024-12-25 12:42:57,593 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:42:58,300 - biothings.client - INFO - done.
+2024-12-25 12:42:59,316 - biothings.client - INFO - Finished.
+2024-12-25 12:42:59,316 - biothings.client - INFO - Finished.
+2024-12-25 12:42:59,317 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:43:00,062 - biothings.client - INFO - done.
+2024-12-25 12:43:01,067 - biothings.client - INFO - Finished.
+2024-12-25 12:43:01,068 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:01,782 - biothings.client - INFO - done.
+2024-12-25 12:43:02,792 - biothings.client - INFO - Finished.
+2024-12-25 12:43:02,792 - biothings.client - INFO - Finished.
+2024-12-25 12:43:02,792 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:43:03,495 - biothings.client - INFO - done.
+2024-12-25 12:43:04,508 - biothings.client - INFO - Finished.
+2024-12-25 12:43:04,508 - biothings.client - INFO - querying 1-26...
+2024-12-25 12:43:05,238 - biothings.client - INFO - done.
+2024-12-25 12:43:06,247 - biothings.client - INFO - Finished.
+2024-12-25 12:43:06,247 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:43:06,950 - biothings.client - INFO - done.
+2024-12-25 12:43:07,953 - biothings.client - INFO - Finished.
+2024-12-25 12:43:07,953 - biothings.client - INFO - Finished.
+2024-12-25 12:43:07,954 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:08,657 - biothings.client - INFO - done.
+2024-12-25 12:43:09,658 - biothings.client - INFO - Finished.
+2024-12-25 12:43:09,658 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:43:10,356 - biothings.client - INFO - done.
+2024-12-25 12:43:11,360 - biothings.client - INFO - Finished.
+2024-12-25 12:43:11,360 - biothings.client - INFO - querying 1-21...
+2024-12-25 12:43:12,063 - biothings.client - INFO - done.
+2024-12-25 12:43:13,080 - biothings.client - INFO - Finished.
+2024-12-25 12:43:13,081 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:13,778 - biothings.client - INFO - done.
+2024-12-25 12:43:14,782 - biothings.client - INFO - Finished.
+2024-12-25 12:43:14,783 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:15,506 - biothings.client - INFO - done.
+2024-12-25 12:43:16,514 - biothings.client - INFO - Finished.
+2024-12-25 12:43:16,515 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:43:17,216 - biothings.client - INFO - done.
+2024-12-25 12:43:18,218 - biothings.client - INFO - Finished.
+2024-12-25 12:43:18,218 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:43:18,913 - biothings.client - INFO - done.
+2024-12-25 12:43:19,916 - biothings.client - INFO - Finished.
+2024-12-25 12:43:19,916 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:20,604 - biothings.client - INFO - done.
+2024-12-25 12:43:21,614 - biothings.client - INFO - Finished.
+2024-12-25 12:43:21,615 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:22,315 - biothings.client - INFO - done.
+2024-12-25 12:43:23,328 - biothings.client - INFO - Finished.
+2024-12-25 12:43:23,328 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:24,052 - biothings.client - INFO - done.
+2024-12-25 12:43:25,055 - biothings.client - INFO - Finished.
+2024-12-25 12:43:25,055 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:25,757 - biothings.client - INFO - done.
+2024-12-25 12:43:26,763 - biothings.client - INFO - Finished.
+2024-12-25 12:43:26,763 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:43:27,461 - biothings.client - INFO - done.
+2024-12-25 12:43:28,477 - biothings.client - INFO - Finished.
+2024-12-25 12:43:28,477 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:29,200 - biothings.client - INFO - done.
+2024-12-25 12:43:30,205 - biothings.client - INFO - Finished.
+2024-12-25 12:43:30,206 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:43:30,897 - biothings.client - INFO - done.
+2024-12-25 12:43:31,904 - biothings.client - INFO - Finished.
+2024-12-25 12:43:31,904 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:43:32,621 - biothings.client - INFO - done.
+2024-12-25 12:43:33,637 - biothings.client - INFO - Finished.
+2024-12-25 12:43:33,638 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:43:34,331 - biothings.client - INFO - done.
+2024-12-25 12:43:35,341 - biothings.client - INFO - Finished.
+2024-12-25 12:43:35,341 - biothings.client - INFO - querying 1-27...
+2024-12-25 12:43:36,053 - biothings.client - INFO - done.
+2024-12-25 12:43:37,056 - biothings.client - INFO - Finished.
+2024-12-25 12:43:37,056 - biothings.client - INFO - Finished.
+2024-12-25 12:43:37,057 - biothings.client - INFO - Finished.
+2024-12-25 12:43:37,057 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:43:37,746 - biothings.client - INFO - done.
+2024-12-25 12:43:38,759 - biothings.client - INFO - Finished.
+2024-12-25 12:43:38,759 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:43:39,448 - biothings.client - INFO - done.
+2024-12-25 12:43:40,457 - biothings.client - INFO - Finished.
+2024-12-25 12:43:40,457 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:43:41,172 - biothings.client - INFO - done.
+2024-12-25 12:43:42,175 - biothings.client - INFO - Finished.
+2024-12-25 12:43:42,176 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:43:42,887 - biothings.client - INFO - done.
+2024-12-25 12:43:43,893 - biothings.client - INFO - Finished.
+2024-12-25 12:43:43,893 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:43:44,595 - biothings.client - INFO - done.
+2024-12-25 12:43:45,608 - biothings.client - INFO - Finished.
+2024-12-25 12:43:45,608 - biothings.client - INFO - Finished.
+2024-12-25 12:43:45,609 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:43:46,325 - biothings.client - INFO - done.
+2024-12-25 12:43:47,336 - biothings.client - INFO - Finished.
+2024-12-25 12:43:47,337 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:43:48,031 - biothings.client - INFO - done.
+2024-12-25 12:43:49,046 - biothings.client - INFO - Finished.
+2024-12-25 12:43:49,046 - biothings.client - INFO - Finished.
+2024-12-25 12:43:49,046 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:43:49,749 - biothings.client - INFO - done.
+2024-12-25 12:43:50,754 - biothings.client - INFO - Finished.
+2024-12-25 12:43:50,754 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:43:51,454 - biothings.client - INFO - done.
+2024-12-25 12:43:52,471 - biothings.client - INFO - Finished.
+2024-12-25 12:43:52,471 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:43:53,174 - biothings.client - INFO - done.
+2024-12-25 12:43:54,177 - biothings.client - INFO - Finished.
+2024-12-25 12:43:54,177 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:43:54,902 - biothings.client - INFO - done.
+2024-12-25 12:43:55,912 - biothings.client - INFO - Finished.
+2024-12-25 12:43:55,912 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:43:56,612 - biothings.client - INFO - done.
+2024-12-25 12:43:57,627 - biothings.client - INFO - Finished.
+2024-12-25 12:43:57,628 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:43:58,338 - biothings.client - INFO - done.
+2024-12-25 12:43:59,343 - biothings.client - INFO - Finished.
+2024-12-25 12:43:59,343 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:00,060 - biothings.client - INFO - done.
+2024-12-25 12:44:01,075 - biothings.client - INFO - Finished.
+2024-12-25 12:44:01,075 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:44:01,813 - biothings.client - INFO - done.
+2024-12-25 12:44:02,814 - biothings.client - INFO - Finished.
+2024-12-25 12:44:02,814 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:03,514 - biothings.client - INFO - done.
+2024-12-25 12:44:04,520 - biothings.client - INFO - Finished.
+2024-12-25 12:44:04,520 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:05,203 - biothings.client - INFO - done.
+2024-12-25 12:44:06,205 - biothings.client - INFO - Finished.
+2024-12-25 12:44:06,205 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:06,893 - biothings.client - INFO - done.
+2024-12-25 12:44:07,906 - biothings.client - INFO - Finished.
+2024-12-25 12:44:07,906 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:08,594 - biothings.client - INFO - done.
+2024-12-25 12:44:09,609 - biothings.client - INFO - Finished.
+2024-12-25 12:44:09,609 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:10,322 - biothings.client - INFO - done.
+2024-12-25 12:44:11,334 - biothings.client - INFO - Finished.
+2024-12-25 12:44:11,334 - biothings.client - INFO - querying 1-19...
+2024-12-25 12:44:12,047 - biothings.client - INFO - done.
+2024-12-25 12:44:13,063 - biothings.client - INFO - Finished.
+2024-12-25 12:44:13,063 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:13,772 - biothings.client - INFO - done.
+2024-12-25 12:44:14,780 - biothings.client - INFO - Finished.
+2024-12-25 12:44:14,780 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:15,474 - biothings.client - INFO - done.
+2024-12-25 12:44:16,485 - biothings.client - INFO - Finished.
+2024-12-25 12:44:16,486 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:17,179 - biothings.client - INFO - done.
+2024-12-25 12:44:18,183 - biothings.client - INFO - Finished.
+2024-12-25 12:44:18,183 - biothings.client - INFO - Finished.
+2024-12-25 12:44:18,184 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:44:18,899 - biothings.client - INFO - done.
+2024-12-25 12:44:19,903 - biothings.client - INFO - Finished.
+2024-12-25 12:44:19,903 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:21,105 - biothings.client - INFO - done.
+2024-12-25 12:44:22,115 - biothings.client - INFO - Finished.
+2024-12-25 12:44:22,115 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:22,817 - biothings.client - INFO - done.
+2024-12-25 12:44:23,833 - biothings.client - INFO - Finished.
+2024-12-25 12:44:23,835 - biothings.client - INFO - Finished.
+2024-12-25 12:44:23,835 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:24,562 - biothings.client - INFO - done.
+2024-12-25 12:44:25,565 - biothings.client - INFO - Finished.
+2024-12-25 12:44:25,565 - biothings.client - INFO - querying 1-22...
+2024-12-25 12:44:26,286 - biothings.client - INFO - done.
+2024-12-25 12:44:27,299 - biothings.client - INFO - Finished.
+2024-12-25 12:44:27,299 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:44:27,997 - biothings.client - INFO - done.
+2024-12-25 12:44:29,005 - biothings.client - INFO - Finished.
+2024-12-25 12:44:29,005 - biothings.client - INFO - Finished.
+2024-12-25 12:44:29,006 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:29,694 - biothings.client - INFO - done.
+2024-12-25 12:44:30,705 - biothings.client - INFO - Finished.
+2024-12-25 12:44:30,705 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:31,411 - biothings.client - INFO - done.
+2024-12-25 12:44:32,423 - biothings.client - INFO - Finished.
+2024-12-25 12:44:32,423 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:33,115 - biothings.client - INFO - done.
+2024-12-25 12:44:34,126 - biothings.client - INFO - Finished.
+2024-12-25 12:44:34,126 - biothings.client - INFO - Finished.
+2024-12-25 12:44:34,126 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:34,829 - biothings.client - INFO - done.
+2024-12-25 12:44:35,845 - biothings.client - INFO - Finished.
+2024-12-25 12:44:35,845 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:36,546 - biothings.client - INFO - done.
+2024-12-25 12:44:37,549 - biothings.client - INFO - Finished.
+2024-12-25 12:44:37,550 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:44:38,244 - biothings.client - INFO - done.
+2024-12-25 12:44:39,250 - biothings.client - INFO - Finished.
+2024-12-25 12:44:39,250 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:39,952 - biothings.client - INFO - done.
+2024-12-25 12:44:40,967 - biothings.client - INFO - Finished.
+2024-12-25 12:44:40,967 - biothings.client - INFO - Finished.
+2024-12-25 12:44:40,967 - biothings.client - INFO - Finished.
+2024-12-25 12:44:40,968 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:44:41,671 - biothings.client - INFO - done.
+2024-12-25 12:44:42,685 - biothings.client - INFO - Finished.
+2024-12-25 12:44:42,686 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:43,386 - biothings.client - INFO - done.
+2024-12-25 12:44:44,395 - biothings.client - INFO - Finished.
+2024-12-25 12:44:44,395 - biothings.client - INFO - Finished.
+2024-12-25 12:44:44,395 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:45,095 - biothings.client - INFO - done.
+2024-12-25 12:44:46,111 - biothings.client - INFO - Finished.
+2024-12-25 12:44:46,111 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:46,793 - biothings.client - INFO - done.
+2024-12-25 12:44:47,802 - biothings.client - INFO - Finished.
+2024-12-25 12:44:47,803 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:48,495 - biothings.client - INFO - done.
+2024-12-25 12:44:49,502 - biothings.client - INFO - Finished.
+2024-12-25 12:44:49,502 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:50,213 - biothings.client - INFO - done.
+2024-12-25 12:44:51,223 - biothings.client - INFO - Finished.
+2024-12-25 12:44:51,223 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:52,437 - biothings.client - INFO - done.
+2024-12-25 12:44:53,454 - biothings.client - INFO - Finished.
+2024-12-25 12:44:53,454 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:44:54,172 - biothings.client - INFO - done.
+2024-12-25 12:44:55,187 - biothings.client - INFO - Finished.
+2024-12-25 12:44:55,187 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:44:55,887 - biothings.client - INFO - done.
+2024-12-25 12:44:56,897 - biothings.client - INFO - Finished.
+2024-12-25 12:44:56,897 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:57,613 - biothings.client - INFO - done.
+2024-12-25 12:44:58,616 - biothings.client - INFO - Finished.
+2024-12-25 12:44:58,616 - biothings.client - INFO - Finished.
+2024-12-25 12:44:58,616 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:44:59,340 - biothings.client - INFO - done.
+2024-12-25 12:45:00,344 - biothings.client - INFO - Finished.
+2024-12-25 12:45:00,344 - biothings.client - INFO - querying 1-24...
+2024-12-25 12:45:01,059 - biothings.client - INFO - done.
+2024-12-25 12:45:02,066 - biothings.client - INFO - Finished.
+2024-12-25 12:45:02,066 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:02,754 - biothings.client - INFO - done.
+2024-12-25 12:45:03,763 - biothings.client - INFO - Finished.
+2024-12-25 12:45:03,764 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:04,460 - biothings.client - INFO - done.
+2024-12-25 12:45:05,465 - biothings.client - INFO - Finished.
+2024-12-25 12:45:05,465 - biothings.client - INFO - querying 1-45...
+2024-12-25 12:45:06,173 - biothings.client - INFO - done.
+2024-12-25 12:45:07,188 - biothings.client - INFO - Finished.
+2024-12-25 12:45:07,188 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:07,901 - biothings.client - INFO - done.
+2024-12-25 12:45:08,913 - biothings.client - INFO - Finished.
+2024-12-25 12:45:08,913 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:45:09,608 - biothings.client - INFO - done.
+2024-12-25 12:45:10,619 - biothings.client - INFO - Finished.
+2024-12-25 12:45:10,619 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:45:11,330 - biothings.client - INFO - done.
+2024-12-25 12:45:12,344 - biothings.client - INFO - Finished.
+2024-12-25 12:45:12,346 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:13,039 - biothings.client - INFO - done.
+2024-12-25 12:45:14,046 - biothings.client - INFO - Finished.
+2024-12-25 12:45:14,047 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:45:14,735 - biothings.client - INFO - done.
+2024-12-25 12:45:15,746 - biothings.client - INFO - Finished.
+2024-12-25 12:45:15,746 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:16,449 - biothings.client - INFO - done.
+2024-12-25 12:45:17,453 - biothings.client - INFO - Finished.
+2024-12-25 12:45:17,453 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:18,158 - biothings.client - INFO - done.
+2024-12-25 12:45:19,173 - biothings.client - INFO - Finished.
+2024-12-25 12:45:19,173 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:19,857 - biothings.client - INFO - done.
+2024-12-25 12:45:20,867 - biothings.client - INFO - Finished.
+2024-12-25 12:45:20,867 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:21,553 - biothings.client - INFO - done.
+2024-12-25 12:45:22,563 - biothings.client - INFO - Finished.
+2024-12-25 12:45:22,563 - biothings.client - INFO - Finished.
+2024-12-25 12:45:22,564 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:23,254 - biothings.client - INFO - done.
+2024-12-25 12:45:24,264 - biothings.client - INFO - Finished.
+2024-12-25 12:45:24,265 - biothings.client - INFO - querying 1-42...
+2024-12-25 12:45:24,975 - biothings.client - INFO - done.
+2024-12-25 12:45:25,980 - biothings.client - INFO - Finished.
+2024-12-25 12:45:25,980 - biothings.client - INFO - Finished.
+2024-12-25 12:45:25,981 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:26,688 - biothings.client - INFO - done.
+2024-12-25 12:45:27,697 - biothings.client - INFO - Finished.
+2024-12-25 12:45:27,697 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:28,387 - biothings.client - INFO - done.
+2024-12-25 12:45:29,392 - biothings.client - INFO - Finished.
+2024-12-25 12:45:29,392 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:30,113 - biothings.client - INFO - done.
+2024-12-25 12:45:31,129 - biothings.client - INFO - Finished.
+2024-12-25 12:45:31,129 - biothings.client - INFO - Finished.
+2024-12-25 12:45:31,129 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:31,814 - biothings.client - INFO - done.
+2024-12-25 12:45:32,819 - biothings.client - INFO - Finished.
+2024-12-25 12:45:32,820 - biothings.client - INFO - querying 1-14...
+2024-12-25 12:45:33,555 - biothings.client - INFO - done.
+2024-12-25 12:45:34,561 - biothings.client - INFO - Finished.
+2024-12-25 12:45:34,561 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:45:35,271 - biothings.client - INFO - done.
+2024-12-25 12:45:36,275 - biothings.client - INFO - Finished.
+2024-12-25 12:45:36,275 - biothings.client - INFO - querying 1-13...
+2024-12-25 12:45:36,973 - biothings.client - INFO - done.
+2024-12-25 12:45:37,977 - biothings.client - INFO - Finished.
+2024-12-25 12:45:37,977 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:38,667 - biothings.client - INFO - done.
+2024-12-25 12:45:39,678 - biothings.client - INFO - Finished.
+2024-12-25 12:45:39,679 - biothings.client - INFO - Finished.
+2024-12-25 12:45:39,679 - biothings.client - INFO - Finished.
+2024-12-25 12:45:39,679 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:45:40,388 - biothings.client - INFO - done.
+2024-12-25 12:45:41,394 - biothings.client - INFO - Finished.
+2024-12-25 12:45:41,394 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:45:42,090 - biothings.client - INFO - done.
+2024-12-25 12:45:43,106 - biothings.client - INFO - Finished.
+2024-12-25 12:45:43,107 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:45:43,810 - biothings.client - INFO - done.
+2024-12-25 12:45:44,823 - biothings.client - INFO - Finished.
+2024-12-25 12:45:44,823 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:45:45,540 - biothings.client - INFO - done.
+2024-12-25 12:45:46,555 - biothings.client - INFO - Finished.
+2024-12-25 12:45:46,555 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:45:47,241 - biothings.client - INFO - done.
+2024-12-25 12:45:48,252 - biothings.client - INFO - Finished.
+2024-12-25 12:45:48,252 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:45:48,983 - biothings.client - INFO - done.
+2024-12-25 12:45:49,987 - biothings.client - INFO - Finished.
+2024-12-25 12:45:49,987 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:45:50,706 - biothings.client - INFO - done.
+2024-12-25 12:45:51,716 - biothings.client - INFO - Finished.
+2024-12-25 12:45:51,716 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:45:52,412 - biothings.client - INFO - done.
+2024-12-25 12:45:53,429 - biothings.client - INFO - Finished.
+2024-12-25 12:45:53,429 - biothings.client - INFO - Finished.
+2024-12-25 12:45:53,429 - biothings.client - INFO - Finished.
+2024-12-25 12:45:53,429 - biothings.client - INFO - Finished.
+2024-12-25 12:45:53,430 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:45:54,120 - biothings.client - INFO - done.
+2024-12-25 12:45:55,120 - biothings.client - INFO - Finished.
+2024-12-25 12:45:55,120 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:45:55,806 - biothings.client - INFO - done.
+2024-12-25 12:45:56,818 - biothings.client - INFO - Finished.
+2024-12-25 12:45:56,818 - biothings.client - INFO - Finished.
+2024-12-25 12:45:56,818 - biothings.client - INFO - Finished.
+2024-12-25 12:45:56,819 - biothings.client - INFO - querying 1-12...
+2024-12-25 12:45:57,506 - biothings.client - INFO - done.
+2024-12-25 12:45:58,518 - biothings.client - INFO - Finished.
+2024-12-25 12:45:58,518 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:45:59,206 - biothings.client - INFO - done.
+2024-12-25 12:46:00,220 - biothings.client - INFO - Finished.
+2024-12-25 12:46:00,220 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:00,917 - biothings.client - INFO - done.
+2024-12-25 12:46:01,926 - biothings.client - INFO - Finished.
+2024-12-25 12:46:01,926 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:02,651 - biothings.client - INFO - done.
+2024-12-25 12:46:03,658 - biothings.client - INFO - Finished.
+2024-12-25 12:46:03,658 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:04,375 - biothings.client - INFO - done.
+2024-12-25 12:46:05,381 - biothings.client - INFO - Finished.
+2024-12-25 12:46:05,381 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:46:06,072 - biothings.client - INFO - done.
+2024-12-25 12:46:07,085 - biothings.client - INFO - Finished.
+2024-12-25 12:46:07,085 - biothings.client - INFO - querying 1-16...
+2024-12-25 12:46:07,788 - biothings.client - INFO - done.
+2024-12-25 12:46:08,797 - biothings.client - INFO - Finished.
+2024-12-25 12:46:08,798 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:46:09,498 - biothings.client - INFO - done.
+2024-12-25 12:46:10,501 - biothings.client - INFO - Finished.
+2024-12-25 12:46:10,501 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:46:11,200 - biothings.client - INFO - done.
+2024-12-25 12:46:12,205 - biothings.client - INFO - Finished.
+2024-12-25 12:46:12,205 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:12,895 - biothings.client - INFO - done.
+2024-12-25 12:46:13,897 - biothings.client - INFO - Finished.
+2024-12-25 12:46:13,897 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:14,612 - biothings.client - INFO - done.
+2024-12-25 12:46:15,628 - biothings.client - INFO - Finished.
+2024-12-25 12:46:15,629 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:46:16,349 - biothings.client - INFO - done.
+2024-12-25 12:46:17,358 - biothings.client - INFO - Finished.
+2024-12-25 12:46:17,358 - biothings.client - INFO - Finished.
+2024-12-25 12:46:17,358 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:18,044 - biothings.client - INFO - done.
+2024-12-25 12:46:19,046 - biothings.client - INFO - Finished.
+2024-12-25 12:46:19,046 - biothings.client - INFO - Finished.
+2024-12-25 12:46:19,047 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:46:19,746 - biothings.client - INFO - done.
+2024-12-25 12:46:20,753 - biothings.client - INFO - Finished.
+2024-12-25 12:46:20,753 - biothings.client - INFO - querying 1-13...
+2024-12-25 12:46:21,461 - biothings.client - INFO - done.
+2024-12-25 12:46:22,473 - biothings.client - INFO - Finished.
+2024-12-25 12:46:22,473 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:23,166 - biothings.client - INFO - done.
+2024-12-25 12:46:24,173 - biothings.client - INFO - Finished.
+2024-12-25 12:46:24,173 - biothings.client - INFO - Finished.
+2024-12-25 12:46:24,174 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:24,863 - biothings.client - INFO - done.
+2024-12-25 12:46:25,873 - biothings.client - INFO - Finished.
+2024-12-25 12:46:25,873 - biothings.client - INFO - querying 1-20...
+2024-12-25 12:46:26,583 - biothings.client - INFO - done.
+2024-12-25 12:46:27,598 - biothings.client - INFO - Finished.
+2024-12-25 12:46:27,598 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:46:28,287 - biothings.client - INFO - done.
+2024-12-25 12:46:29,299 - biothings.client - INFO - Finished.
+2024-12-25 12:46:29,299 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:46:30,002 - biothings.client - INFO - done.
+2024-12-25 12:46:31,011 - biothings.client - INFO - Finished.
+2024-12-25 12:46:31,011 - biothings.client - INFO - querying 1-14...
+2024-12-25 12:46:31,707 - biothings.client - INFO - done.
+2024-12-25 12:46:32,715 - biothings.client - INFO - Finished.
+2024-12-25 12:46:32,715 - biothings.client - INFO - Finished.
+2024-12-25 12:46:32,715 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:46:33,413 - biothings.client - INFO - done.
+2024-12-25 12:46:34,425 - biothings.client - INFO - Finished.
+2024-12-25 12:46:34,426 - biothings.client - INFO - Finished.
+2024-12-25 12:46:34,426 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:35,133 - biothings.client - INFO - done.
+2024-12-25 12:46:36,142 - biothings.client - INFO - Finished.
+2024-12-25 12:46:36,142 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:46:36,839 - biothings.client - INFO - done.
+2024-12-25 12:46:37,845 - biothings.client - INFO - Finished.
+2024-12-25 12:46:37,845 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:38,539 - biothings.client - INFO - done.
+2024-12-25 12:46:39,545 - biothings.client - INFO - Finished.
+2024-12-25 12:46:39,545 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:40,233 - biothings.client - INFO - done.
+2024-12-25 12:46:41,251 - biothings.client - INFO - Finished.
+2024-12-25 12:46:41,252 - biothings.client - INFO - Finished.
+2024-12-25 12:46:41,252 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:41,947 - biothings.client - INFO - done.
+2024-12-25 12:46:42,960 - biothings.client - INFO - Finished.
+2024-12-25 12:46:42,961 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:43,655 - biothings.client - INFO - done.
+2024-12-25 12:46:44,660 - biothings.client - INFO - Finished.
+2024-12-25 12:46:44,660 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:45,388 - biothings.client - INFO - done.
+2024-12-25 12:46:46,393 - biothings.client - INFO - Finished.
+2024-12-25 12:46:46,393 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:47,081 - biothings.client - INFO - done.
+2024-12-25 12:46:48,095 - biothings.client - INFO - Finished.
+2024-12-25 12:46:48,095 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:46:48,789 - biothings.client - INFO - done.
+2024-12-25 12:46:49,796 - biothings.client - INFO - Finished.
+2024-12-25 12:46:49,796 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:50,503 - biothings.client - INFO - done.
+2024-12-25 12:46:51,518 - biothings.client - INFO - Finished.
+2024-12-25 12:46:51,518 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:46:52,241 - biothings.client - INFO - done.
+2024-12-25 12:46:53,253 - biothings.client - INFO - Finished.
+2024-12-25 12:46:53,254 - biothings.client - INFO - querying 1-16...
+2024-12-25 12:46:53,964 - biothings.client - INFO - done.
+2024-12-25 12:46:54,981 - biothings.client - INFO - Finished.
+2024-12-25 12:46:54,982 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:46:55,674 - biothings.client - INFO - done.
+2024-12-25 12:46:56,683 - biothings.client - INFO - Finished.
+2024-12-25 12:46:56,683 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:46:57,374 - biothings.client - INFO - done.
+2024-12-25 12:46:58,376 - biothings.client - INFO - Finished.
+2024-12-25 12:46:58,378 - biothings.client - INFO - Finished.
+2024-12-25 12:46:58,379 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:46:59,089 - biothings.client - INFO - done.
+2024-12-25 12:47:00,103 - biothings.client - INFO - Finished.
+2024-12-25 12:47:00,103 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:00,818 - biothings.client - INFO - done.
+2024-12-25 12:47:01,827 - biothings.client - INFO - Finished.
+2024-12-25 12:47:01,827 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:47:02,533 - biothings.client - INFO - done.
+2024-12-25 12:47:03,535 - biothings.client - INFO - Finished.
+2024-12-25 12:47:03,535 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:47:04,246 - biothings.client - INFO - done.
+2024-12-25 12:47:05,257 - biothings.client - INFO - Finished.
+2024-12-25 12:47:05,257 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:47:05,957 - biothings.client - INFO - done.
+2024-12-25 12:47:06,968 - biothings.client - INFO - Finished.
+2024-12-25 12:47:06,968 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:47:07,680 - biothings.client - INFO - done.
+2024-12-25 12:47:08,691 - biothings.client - INFO - Finished.
+2024-12-25 12:47:08,691 - biothings.client - INFO - Finished.
+2024-12-25 12:47:08,691 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:09,402 - biothings.client - INFO - done.
+2024-12-25 12:47:10,410 - biothings.client - INFO - Finished.
+2024-12-25 12:47:10,410 - biothings.client - INFO - Finished.
+2024-12-25 12:47:10,411 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:11,098 - biothings.client - INFO - done.
+2024-12-25 12:47:12,111 - biothings.client - INFO - Finished.
+2024-12-25 12:47:12,111 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:12,796 - biothings.client - INFO - done.
+2024-12-25 12:47:13,799 - biothings.client - INFO - Finished.
+2024-12-25 12:47:13,800 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:14,501 - biothings.client - INFO - done.
+2024-12-25 12:47:15,516 - biothings.client - INFO - Finished.
+2024-12-25 12:47:15,517 - biothings.client - INFO - Finished.
+2024-12-25 12:47:15,517 - biothings.client - INFO - Finished.
+2024-12-25 12:47:15,517 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:16,217 - biothings.client - INFO - done.
+2024-12-25 12:47:17,224 - biothings.client - INFO - Finished.
+2024-12-25 12:47:17,224 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:47:17,915 - biothings.client - INFO - done.
+2024-12-25 12:47:18,924 - biothings.client - INFO - Finished.
+2024-12-25 12:47:18,924 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:19,615 - biothings.client - INFO - done.
+2024-12-25 12:47:20,624 - biothings.client - INFO - Finished.
+2024-12-25 12:47:20,626 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:47:21,306 - biothings.client - INFO - done.
+2024-12-25 12:47:22,316 - biothings.client - INFO - Finished.
+2024-12-25 12:47:22,316 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:47:23,041 - biothings.client - INFO - done.
+2024-12-25 12:47:24,046 - biothings.client - INFO - Finished.
+2024-12-25 12:47:24,047 - biothings.client - WARNING - 1 input query terms found dup hits:	[('GNRHR2', 2)]
+2024-12-25 12:47:24,047 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:47:24,047 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:24,748 - biothings.client - INFO - done.
+2024-12-25 12:47:25,764 - biothings.client - INFO - Finished.
+2024-12-25 12:47:25,764 - biothings.client - INFO - Finished.
+2024-12-25 12:47:25,765 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:26,461 - biothings.client - INFO - done.
+2024-12-25 12:47:27,468 - biothings.client - INFO - Finished.
+2024-12-25 12:47:27,469 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:47:28,205 - biothings.client - INFO - done.
+2024-12-25 12:47:29,209 - biothings.client - INFO - Finished.
+2024-12-25 12:47:29,210 - biothings.client - INFO - Finished.
+2024-12-25 12:47:29,211 - biothings.client - INFO - Finished.
+2024-12-25 12:47:29,211 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:47:29,912 - biothings.client - INFO - done.
+2024-12-25 12:47:30,919 - biothings.client - INFO - Finished.
+2024-12-25 12:47:30,919 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:47:31,629 - biothings.client - INFO - done.
+2024-12-25 12:47:32,636 - biothings.client - INFO - Finished.
+2024-12-25 12:47:32,637 - biothings.client - INFO - querying 1-10...
+2024-12-25 12:47:33,336 - biothings.client - INFO - done.
+2024-12-25 12:47:34,340 - biothings.client - INFO - Finished.
+2024-12-25 12:47:34,340 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:35,045 - biothings.client - INFO - done.
+2024-12-25 12:47:36,050 - biothings.client - INFO - Finished.
+2024-12-25 12:47:36,051 - biothings.client - INFO - querying 1-6...
+2024-12-25 12:47:36,757 - biothings.client - INFO - done.
+2024-12-25 12:47:37,772 - biothings.client - INFO - Finished.
+2024-12-25 12:47:37,772 - biothings.client - INFO - querying 1-8...
+2024-12-25 12:47:38,495 - biothings.client - INFO - done.
+2024-12-25 12:47:39,500 - biothings.client - INFO - Finished.
+2024-12-25 12:47:39,501 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:40,189 - biothings.client - INFO - done.
+2024-12-25 12:47:41,204 - biothings.client - INFO - Finished.
+2024-12-25 12:47:41,205 - biothings.client - INFO - Finished.
+2024-12-25 12:47:41,205 - biothings.client - INFO - querying 1-25...
+2024-12-25 12:47:41,924 - biothings.client - INFO - done.
+2024-12-25 12:47:42,934 - biothings.client - INFO - Finished.
+2024-12-25 12:47:42,934 - biothings.client - INFO - Finished.
+2024-12-25 12:47:42,935 - biothings.client - INFO - querying 1-12...
+2024-12-25 12:47:43,641 - biothings.client - INFO - done.
+2024-12-25 12:47:44,652 - biothings.client - INFO - Finished.
+2024-12-25 12:47:44,652 - biothings.client - INFO - Finished.
+2024-12-25 12:47:44,652 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:45,385 - biothings.client - INFO - done.
+2024-12-25 12:47:46,394 - biothings.client - INFO - Finished.
+2024-12-25 12:47:46,395 - biothings.client - INFO - Finished.
+2024-12-25 12:47:46,395 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:47,086 - biothings.client - INFO - done.
+2024-12-25 12:47:48,098 - biothings.client - INFO - Finished.
+2024-12-25 12:47:48,098 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:47:48,799 - biothings.client - INFO - done.
+2024-12-25 12:47:49,813 - biothings.client - INFO - Finished.
+2024-12-25 12:47:49,813 - biothings.client - WARNING - 1 input query terms found dup hits:	[('GNRHR2', 2)]
+2024-12-25 12:47:49,813 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 12:47:49,815 - biothings.client - INFO - querying 1-9...
+2024-12-25 12:47:50,514 - biothings.client - INFO - done.
+2024-12-25 12:47:51,520 - biothings.client - INFO - Finished.
+2024-12-25 12:47:51,521 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:47:52,222 - biothings.client - INFO - done.
+2024-12-25 12:47:53,237 - biothings.client - INFO - Finished.
+2024-12-25 12:47:53,238 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:53,924 - biothings.client - INFO - done.
+2024-12-25 12:47:54,940 - biothings.client - INFO - Finished.
+2024-12-25 12:47:54,940 - biothings.client - INFO - Finished.
+2024-12-25 12:47:54,941 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:55,633 - biothings.client - INFO - done.
+2024-12-25 12:47:56,645 - biothings.client - INFO - Finished.
+2024-12-25 12:47:56,645 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:47:57,344 - biothings.client - INFO - done.
+2024-12-25 12:47:58,359 - biothings.client - INFO - Finished.
+2024-12-25 12:47:58,359 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:47:59,053 - biothings.client - INFO - done.
+2024-12-25 12:48:00,059 - biothings.client - INFO - Finished.
+2024-12-25 12:48:00,059 - biothings.client - INFO - querying 1-18...
+2024-12-25 12:48:00,841 - biothings.client - INFO - done.
+2024-12-25 12:48:01,844 - biothings.client - INFO - Finished.
+2024-12-25 12:48:01,844 - biothings.client - INFO - Finished.
+2024-12-25 12:48:01,845 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:48:02,530 - biothings.client - INFO - done.
+2024-12-25 12:48:03,533 - biothings.client - INFO - Finished.
+2024-12-25 12:48:03,533 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:48:04,235 - biothings.client - INFO - done.
+2024-12-25 12:48:05,249 - biothings.client - INFO - Finished.
+2024-12-25 12:48:05,249 - biothings.client - INFO - querying 1-7...
+2024-12-25 12:48:05,936 - biothings.client - INFO - done.
+2024-12-25 12:48:06,942 - biothings.client - INFO - Finished.
+2024-12-25 12:48:06,942 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:48:07,641 - biothings.client - INFO - done.
+2024-12-25 12:48:08,650 - biothings.client - INFO - Finished.
+2024-12-25 12:48:08,650 - biothings.client - INFO - Finished.
+2024-12-25 12:48:08,651 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:48:09,367 - biothings.client - INFO - done.
+2024-12-25 12:48:10,370 - biothings.client - INFO - Finished.
+2024-12-25 12:48:10,370 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:48:11,061 - biothings.client - INFO - done.
+2024-12-25 12:48:12,071 - biothings.client - INFO - Finished.
+2024-12-25 12:48:12,071 - biothings.client - INFO - Finished.
+2024-12-25 12:48:12,071 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:48:12,757 - biothings.client - INFO - done.
+2024-12-25 12:48:13,763 - biothings.client - INFO - Finished.
+2024-12-25 12:48:13,764 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:48:14,457 - biothings.client - INFO - done.
+2024-12-25 12:48:15,459 - biothings.client - INFO - Finished.
+2024-12-25 12:48:15,459 - biothings.client - INFO - querying 1-3...
+2024-12-25 12:48:16,162 - biothings.client - INFO - done.
+2024-12-25 12:48:17,166 - biothings.client - INFO - Finished.
+2024-12-25 12:48:17,166 - biothings.client - INFO - querying 1-4...
+2024-12-25 12:48:17,856 - biothings.client - INFO - done.
+2024-12-25 12:48:18,861 - biothings.client - INFO - Finished.
+2024-12-25 12:48:18,861 - biothings.client - INFO - Finished.
+2024-12-25 12:48:18,861 - biothings.client - INFO - querying 1-17...
+2024-12-25 12:48:19,563 - biothings.client - INFO - done.
+2024-12-25 12:48:20,579 - biothings.client - INFO - Finished.
+2024-12-25 12:48:20,580 - biothings.client - INFO - querying 1-2...
+2024-12-25 12:48:21,800 - biothings.client - INFO - done.
+2024-12-25 12:48:22,811 - biothings.client - INFO - Finished.
+2024-12-25 12:48:22,812 - biothings.client - INFO - querying 1-5...
+2024-12-25 12:48:23,518 - biothings.client - INFO - done.
+2024-12-25 12:48:24,522 - biothings.client - INFO - Finished.
+2024-12-25 12:48:24,522 - biothings.client - INFO - querying 1-1...
+2024-12-25 12:51:01,056 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:23,164 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:28,072 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:29,613 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:30,694 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:32,291 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:33,242 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:21:39,717 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:21:40,416 - biothings.client - INFO - done.
+2024-12-25 14:21:41,419 - biothings.client - INFO - Finished.
+2024-12-25 14:21:41,419 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:21:42,122 - biothings.client - INFO - done.
+2024-12-25 14:21:43,123 - biothings.client - INFO - Finished.
+2024-12-25 14:21:43,123 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:21:43,834 - biothings.client - INFO - done.
+2024-12-25 14:21:44,844 - biothings.client - INFO - Finished.
+2024-12-25 14:21:44,844 - biothings.client - INFO - Finished.
+2024-12-25 14:21:44,844 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:21:45,535 - biothings.client - INFO - done.
+2024-12-25 14:21:46,550 - biothings.client - INFO - Finished.
+2024-12-25 14:21:46,550 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:21:47,241 - biothings.client - INFO - done.
+2024-12-25 14:21:48,252 - biothings.client - INFO - Finished.
+2024-12-25 14:21:48,252 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:21:48,950 - biothings.client - INFO - done.
+2024-12-25 14:21:49,955 - biothings.client - INFO - Finished.
+2024-12-25 14:21:49,955 - biothings.client - INFO - Finished.
+2024-12-25 14:21:49,955 - biothings.client - INFO - querying 1-5...
+2024-12-25 14:21:50,656 - biothings.client - INFO - done.
+2024-12-25 14:21:51,672 - biothings.client - INFO - Finished.
+2024-12-25 14:21:51,672 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:21:52,376 - biothings.client - INFO - done.
+2024-12-25 14:21:53,377 - biothings.client - INFO - Finished.
+2024-12-25 14:21:53,377 - biothings.client - INFO - Finished.
+2024-12-25 14:21:53,377 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:21:54,085 - biothings.client - INFO - done.
+2024-12-25 14:21:55,091 - biothings.client - INFO - Finished.
+2024-12-25 14:21:55,091 - biothings.client - INFO - querying 1-50...
+2024-12-25 14:21:55,815 - biothings.client - INFO - done.
+2024-12-25 14:21:56,817 - biothings.client - INFO - Finished.
+2024-12-25 14:21:56,817 - biothings.client - WARNING - 3 input query terms found no hit:	['CCBL1', 'CCBL2', 'PROSC']
+2024-12-25 14:21:56,817 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:21:56,818 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:21:57,545 - biothings.client - INFO - done.
+2024-12-25 14:21:58,559 - biothings.client - INFO - Finished.
+2024-12-25 14:21:58,559 - biothings.client - WARNING - 1 input query terms found no hit:	['MUT']
+2024-12-25 14:21:58,559 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:21:58,559 - biothings.client - INFO - querying 1-12...
+2024-12-25 14:21:59,260 - biothings.client - INFO - done.
+2024-12-25 14:22:00,265 - biothings.client - INFO - Finished.
+2024-12-25 14:22:00,265 - biothings.client - INFO - querying 1-5...
+2024-12-25 14:22:00,957 - biothings.client - INFO - done.
+2024-12-25 14:22:01,961 - biothings.client - INFO - Finished.
+2024-12-25 14:22:01,961 - biothings.client - WARNING - 1 input query terms found no hit:	['HARS']
+2024-12-25 14:22:01,961 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:01,962 - biothings.client - INFO - querying 1-9...
+2024-12-25 14:22:02,662 - biothings.client - INFO - done.
+2024-12-25 14:22:03,676 - biothings.client - INFO - Finished.
+2024-12-25 14:22:03,676 - biothings.client - INFO - querying 1-15...
+2024-12-25 14:22:04,431 - biothings.client - INFO - done.
+2024-12-25 14:22:05,444 - biothings.client - INFO - Finished.
+2024-12-25 14:22:05,444 - biothings.client - INFO - querying 1-8...
+2024-12-25 14:22:06,150 - biothings.client - INFO - done.
+2024-12-25 14:22:07,155 - biothings.client - INFO - Finished.
+2024-12-25 14:22:07,155 - biothings.client - INFO - querying 1-9...
+2024-12-25 14:22:07,837 - biothings.client - INFO - done.
+2024-12-25 14:22:08,839 - biothings.client - INFO - Finished.
+2024-12-25 14:22:08,839 - biothings.client - INFO - querying 1-9...
+2024-12-25 14:22:09,548 - biothings.client - INFO - done.
+2024-12-25 14:22:10,560 - biothings.client - INFO - Finished.
+2024-12-25 14:22:10,561 - biothings.client - INFO - querying 1-6...
+2024-12-25 14:22:11,263 - biothings.client - INFO - done.
+2024-12-25 14:22:12,278 - biothings.client - INFO - Finished.
+2024-12-25 14:22:12,279 - biothings.client - WARNING - 1 input query terms found no hit:	['KARS']
+2024-12-25 14:22:12,279 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:12,279 - biothings.client - INFO - querying 1-10...
+2024-12-25 14:22:12,978 - biothings.client - INFO - done.
+2024-12-25 14:22:13,993 - biothings.client - INFO - Finished.
+2024-12-25 14:22:13,993 - biothings.client - INFO - querying 1-22...
+2024-12-25 14:22:14,699 - biothings.client - INFO - done.
+2024-12-25 14:22:15,396 - biothings.client - INFO - Finished.
+2024-12-25 14:22:15,705 - biothings.client - INFO - Finished.
+2024-12-25 14:22:15,705 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:22:16,402 - biothings.client - INFO - done.
+2024-12-25 14:22:17,417 - biothings.client - INFO - Finished.
+2024-12-25 14:22:17,417 - biothings.client - INFO - querying 1-19...
+2024-12-25 14:22:18,123 - biothings.client - INFO - done.
+2024-12-25 14:22:19,124 - biothings.client - INFO - Finished.
+2024-12-25 14:22:19,124 - biothings.client - WARNING - 3 input query terms found no hit:	['ADSS', 'DARS', 'ADSSL1']
+2024-12-25 14:22:19,124 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:19,124 - biothings.client - INFO - querying 1-11...
+2024-12-25 14:22:19,819 - biothings.client - INFO - done.
+2024-12-25 14:22:20,529 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 14:22:20,832 - biothings.client - INFO - Finished.
+2024-12-25 14:22:20,832 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:22:21,543 - biothings.client - INFO - done.
+2024-12-25 14:22:22,557 - biothings.client - INFO - Finished.
+2024-12-25 14:22:22,557 - biothings.client - INFO - querying 1-17...
+2024-12-25 14:22:23,273 - biothings.client - INFO - done.
+2024-12-25 14:22:24,284 - biothings.client - INFO - Finished.
+2024-12-25 14:22:24,284 - biothings.client - INFO - querying 1-12...
+2024-12-25 14:22:24,974 - biothings.client - INFO - done.
+2024-12-25 14:22:25,988 - biothings.client - INFO - Finished.
+2024-12-25 14:22:25,989 - biothings.client - INFO - querying 1-8...
+2024-12-25 14:22:26,702 - biothings.client - INFO - done.
+2024-12-25 14:22:27,717 - biothings.client - INFO - Finished.
+2024-12-25 14:22:27,717 - biothings.client - WARNING - 1 input query terms found no hit:	['SARS']
+2024-12-25 14:22:27,717 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:27,718 - biothings.client - INFO - querying 1-6...
+2024-12-25 14:22:28,406 - biothings.client - INFO - done.
+2024-12-25 14:22:29,420 - biothings.client - INFO - Finished.
+2024-12-25 14:22:29,420 - biothings.client - INFO - querying 1-5...
+2024-12-25 14:22:30,119 - biothings.client - INFO - done.
+2024-12-25 14:22:31,128 - biothings.client - INFO - Finished.
+2024-12-25 14:22:31,128 - biothings.client - WARNING - 1 input query terms found no hit:	['YARS']
+2024-12-25 14:22:31,128 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:31,129 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:22:31,825 - biothings.client - INFO - done.
+2024-12-25 14:22:32,840 - biothings.client - INFO - Finished.
+2024-12-25 14:22:32,842 - biothings.client - INFO - Finished.
+2024-12-25 14:22:32,843 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:22:33,531 - biothings.client - INFO - done.
+2024-12-25 14:22:34,542 - biothings.client - INFO - Finished.
+2024-12-25 14:22:34,542 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:22:35,252 - biothings.client - INFO - done.
+2024-12-25 14:22:36,261 - biothings.client - INFO - Finished.
+2024-12-25 14:22:36,262 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:22:36,959 - biothings.client - INFO - done.
+2024-12-25 14:22:37,965 - biothings.client - INFO - Finished.
+2024-12-25 14:22:37,965 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:22:38,655 - biothings.client - INFO - done.
+2024-12-25 14:22:39,657 - biothings.client - INFO - Finished.
+2024-12-25 14:22:39,657 - biothings.client - INFO - querying 1-62...
+2024-12-25 14:22:40,409 - biothings.client - INFO - done.
+2024-12-25 14:22:41,417 - biothings.client - INFO - Finished.
+2024-12-25 14:22:41,417 - biothings.client - WARNING - 1 input query terms found no hit:	['EPRS']
+2024-12-25 14:22:41,417 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:41,418 - biothings.client - INFO - querying 1-40...
+2024-12-25 14:22:42,140 - biothings.client - INFO - done.
+2024-12-25 14:22:43,147 - biothings.client - INFO - Finished.
+2024-12-25 14:22:43,147 - biothings.client - INFO - querying 1-11...
+2024-12-25 14:22:43,855 - biothings.client - INFO - done.
+2024-12-25 14:22:44,864 - biothings.client - INFO - Finished.
+2024-12-25 14:22:44,864 - biothings.client - INFO - querying 1-25...
+2024-12-25 14:22:45,592 - biothings.client - INFO - done.
+2024-12-25 14:22:46,600 - biothings.client - INFO - Finished.
+2024-12-25 14:22:46,602 - biothings.client - WARNING - 1 input query terms found no hit:	['GARS']
+2024-12-25 14:22:46,602 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:46,603 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:22:47,308 - biothings.client - INFO - done.
+2024-12-25 14:22:48,315 - biothings.client - INFO - Finished.
+2024-12-25 14:22:48,315 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:22:49,008 - biothings.client - INFO - done.
+2024-12-25 14:22:50,018 - biothings.client - INFO - Finished.
+2024-12-25 14:22:50,018 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:22:51,238 - biothings.client - INFO - done.
+2024-12-25 14:22:52,249 - biothings.client - INFO - Finished.
+2024-12-25 14:22:52,249 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:22:52,939 - biothings.client - INFO - done.
+2024-12-25 14:22:53,954 - biothings.client - INFO - Finished.
+2024-12-25 14:22:53,954 - biothings.client - WARNING - 1 input query terms found no hit:	['LARS']
+2024-12-25 14:22:53,954 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:53,955 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:22:54,660 - biothings.client - INFO - done.
+2024-12-25 14:22:55,672 - biothings.client - INFO - Finished.
+2024-12-25 14:22:55,672 - biothings.client - WARNING - 1 input query terms found no hit:	['WARS']
+2024-12-25 14:22:55,672 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:55,672 - biothings.client - INFO - querying 1-14...
+2024-12-25 14:22:56,359 - biothings.client - INFO - done.
+2024-12-25 14:22:57,373 - biothings.client - INFO - Finished.
+2024-12-25 14:22:57,373 - biothings.client - WARNING - 1 input query terms found no hit:	['CARS']
+2024-12-25 14:22:57,374 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:22:57,374 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:22:58,076 - biothings.client - INFO - done.
+2024-12-25 14:22:59,081 - biothings.client - INFO - Finished.
+2024-12-25 14:22:59,081 - biothings.client - INFO - querying 1-28...
+2024-12-25 14:22:59,802 - biothings.client - INFO - done.
+2024-12-25 14:23:00,813 - biothings.client - INFO - Finished.
+2024-12-25 14:23:00,813 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:01,526 - biothings.client - INFO - done.
+2024-12-25 14:23:02,532 - biothings.client - INFO - Finished.
+2024-12-25 14:23:02,532 - biothings.client - INFO - querying 1-13...
+2024-12-25 14:23:03,247 - biothings.client - INFO - done.
+2024-12-25 14:23:04,263 - biothings.client - INFO - Finished.
+2024-12-25 14:23:04,263 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:04,949 - biothings.client - INFO - done.
+2024-12-25 14:23:05,955 - biothings.client - INFO - Finished.
+2024-12-25 14:23:05,955 - biothings.client - WARNING - 1 input query terms found no hit:	['TARS']
+2024-12-25 14:23:05,956 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:05,956 - biothings.client - INFO - querying 1-145...
+2024-12-25 14:23:07,479 - biothings.client - INFO - done.
+2024-12-25 14:23:08,486 - biothings.client - INFO - Finished.
+2024-12-25 14:23:08,486 - biothings.client - WARNING - 8 input query terms found no hit:	['MT-ND3', 'MT-ND4L', 'MT-ND1', 'MT-ND5', 'MT-ND6', 'MT-ND4', 'TSTA3', 'MT-ND2']
+2024-12-25 14:23:08,487 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:08,487 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:23:09,174 - biothings.client - INFO - done.
+2024-12-25 14:23:10,190 - biothings.client - INFO - Finished.
+2024-12-25 14:23:10,190 - biothings.client - INFO - querying 1-11...
+2024-12-25 14:23:10,921 - biothings.client - INFO - done.
+2024-12-25 14:23:11,936 - biothings.client - INFO - Finished.
+2024-12-25 14:23:11,936 - biothings.client - INFO - querying 1-14...
+2024-12-25 14:23:12,635 - biothings.client - INFO - done.
+2024-12-25 14:23:13,647 - biothings.client - INFO - Finished.
+2024-12-25 14:23:13,647 - biothings.client - WARNING - 1 input query terms found no hit:	['AARS']
+2024-12-25 14:23:13,647 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:13,648 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:23:14,334 - biothings.client - INFO - done.
+2024-12-25 14:23:15,340 - biothings.client - INFO - Finished.
+2024-12-25 14:23:15,340 - biothings.client - WARNING - 1 input query terms found no hit:	['VARS']
+2024-12-25 14:23:15,340 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:15,341 - biothings.client - INFO - querying 1-16...
+2024-12-25 14:23:16,084 - biothings.client - INFO - done.
+2024-12-25 14:23:17,087 - biothings.client - INFO - Finished.
+2024-12-25 14:23:17,087 - biothings.client - INFO - querying 1-11...
+2024-12-25 14:23:17,776 - biothings.client - INFO - done.
+2024-12-25 14:23:18,792 - biothings.client - INFO - Finished.
+2024-12-25 14:23:18,792 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:19,475 - biothings.client - INFO - done.
+2024-12-25 14:23:20,487 - biothings.client - INFO - Finished.
+2024-12-25 14:23:20,487 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:23:21,182 - biothings.client - INFO - done.
+2024-12-25 14:23:22,187 - biothings.client - INFO - Finished.
+2024-12-25 14:23:22,188 - biothings.client - INFO - querying 1-6...
+2024-12-25 14:23:22,873 - biothings.client - INFO - done.
+2024-12-25 14:23:23,878 - biothings.client - INFO - Finished.
+2024-12-25 14:23:23,878 - biothings.client - WARNING - 1 input query terms found no hit:	['IARS']
+2024-12-25 14:23:23,878 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:23,879 - biothings.client - INFO - querying 1-4...
+2024-12-25 14:23:24,578 - biothings.client - INFO - done.
+2024-12-25 14:23:25,585 - biothings.client - INFO - Finished.
+2024-12-25 14:23:25,585 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:26,277 - biothings.client - INFO - done.
+2024-12-25 14:23:27,287 - biothings.client - INFO - Finished.
+2024-12-25 14:23:27,287 - biothings.client - INFO - querying 1-11...
+2024-12-25 14:23:27,983 - biothings.client - INFO - done.
+2024-12-25 14:23:28,999 - biothings.client - INFO - Finished.
+2024-12-25 14:23:29,000 - biothings.client - INFO - querying 1-43...
+2024-12-25 14:23:29,742 - biothings.client - INFO - done.
+2024-12-25 14:23:30,758 - biothings.client - INFO - Finished.
+2024-12-25 14:23:30,758 - biothings.client - WARNING - 3 input query terms found no hit:	['ADRBK1', 'ADRBK2', 'ASNA1']
+2024-12-25 14:23:30,758 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:30,759 - biothings.client - INFO - querying 1-22...
+2024-12-25 14:23:31,463 - biothings.client - INFO - done.
+2024-12-25 14:23:32,468 - biothings.client - INFO - Finished.
+2024-12-25 14:23:32,468 - biothings.client - WARNING - 3 input query terms found no hit:	['PYCRL', 'PROSC', 'EPRS']
+2024-12-25 14:23:32,468 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:32,469 - biothings.client - INFO - querying 1-7...
+2024-12-25 14:23:33,170 - biothings.client - INFO - done.
+2024-12-25 14:23:34,180 - biothings.client - INFO - Finished.
+2024-12-25 14:23:34,180 - biothings.client - INFO - querying 1-10...
+2024-12-25 14:23:34,884 - biothings.client - INFO - done.
+2024-12-25 14:23:35,899 - biothings.client - INFO - Finished.
+2024-12-25 14:23:35,899 - biothings.client - WARNING - 1 input query terms found no hit:	['NARS']
+2024-12-25 14:23:35,899 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 14:23:35,900 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:36,589 - biothings.client - INFO - done.
+2024-12-25 14:23:37,600 - biothings.client - INFO - Finished.
+2024-12-25 14:23:37,600 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:38,320 - biothings.client - INFO - done.
+2024-12-25 14:23:39,328 - biothings.client - INFO - Finished.
+2024-12-25 14:23:39,328 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:41,100 - biothings.client - INFO - done.
+2024-12-25 14:23:42,104 - biothings.client - INFO - Finished.
+2024-12-25 14:23:42,104 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:42,836 - biothings.client - INFO - done.
+2024-12-25 14:23:43,845 - biothings.client - INFO - Finished.
+2024-12-25 14:23:43,845 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:44,571 - biothings.client - INFO - done.
+2024-12-25 14:23:45,580 - biothings.client - INFO - Finished.
+2024-12-25 14:23:45,580 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:46,273 - biothings.client - INFO - done.
+2024-12-25 14:23:47,279 - biothings.client - INFO - Finished.
+2024-12-25 14:23:47,279 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:47,970 - biothings.client - INFO - done.
+2024-12-25 14:23:48,979 - biothings.client - INFO - Finished.
+2024-12-25 14:23:48,979 - biothings.client - INFO - querying 1-19...
+2024-12-25 14:23:49,689 - biothings.client - INFO - done.
+2024-12-25 14:23:50,702 - biothings.client - INFO - Finished.
+2024-12-25 14:23:50,702 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:51,391 - biothings.client - INFO - done.
+2024-12-25 14:23:52,398 - biothings.client - INFO - Finished.
+2024-12-25 14:23:52,398 - biothings.client - INFO - querying 1-14...
+2024-12-25 14:23:53,112 - biothings.client - INFO - done.
+2024-12-25 14:23:54,128 - biothings.client - INFO - Finished.
+2024-12-25 14:23:54,129 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:54,830 - biothings.client - INFO - done.
+2024-12-25 14:23:55,838 - biothings.client - INFO - Finished.
+2024-12-25 14:23:55,839 - biothings.client - INFO - querying 1-17...
+2024-12-25 14:23:56,550 - biothings.client - INFO - done.
+2024-12-25 14:23:57,565 - biothings.client - INFO - Finished.
+2024-12-25 14:23:57,565 - biothings.client - INFO - querying 1-2...
+2024-12-25 14:23:58,259 - biothings.client - INFO - done.
+2024-12-25 14:23:59,263 - biothings.client - INFO - Finished.
+2024-12-25 14:23:59,263 - biothings.client - INFO - querying 1-3...
+2024-12-25 14:23:59,949 - biothings.client - INFO - done.
+2024-12-25 16:20:54,575 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 16:21:00,803 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 17:25:30,184 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 18:01:36,729 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 18:08:05,537 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 18:08:07,315 - biothings.client - INFO - querying 1-915...
+2024-12-25 18:08:08,873 - biothings.client - INFO - done.
+2024-12-25 18:08:09,884 - biothings.client - INFO - Finished.
+2024-12-25 18:08:09,884 - biothings.client - WARNING - 2 input query terms found dup hits:	[('GUSBP1', 2), ('IGHG1', 2)]
+2024-12-25 18:08:09,885 - biothings.client - WARNING - 4 input query terms found no hit:	['ADAL', 'G6PC', 'PHB', 'FAM102A']
+2024-12-25 18:08:09,885 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.
+2024-12-25 20:49:39,749 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 20:49:42,785 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 20:49:46,166 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 20:51:57,201 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-25 20:51:58,994 - biothings.client - INFO - querying 1-915...
+2024-12-25 20:52:00,493 - biothings.client - INFO - done.
+2024-12-25 20:52:01,497 - biothings.client - INFO - Finished.
+2024-12-25 20:52:01,497 - biothings.client - WARNING - 2 input query terms found dup hits:	[('IGHG1', 2), ('GUSBP1', 2)]
+2024-12-25 20:52:01,497 - biothings.client - WARNING - 4 input query terms found no hit:	['ADAL', 'G6PC', 'PHB', 'FAM102A']
+2024-12-25 20:52:01,499 - biothings.client - INFO - Pass "returnall=True" to return complete lists of duplicate or missing query terms.

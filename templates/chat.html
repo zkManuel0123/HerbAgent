@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI助手交互界面</title>
+    <meta charset="utf-8">
+    <style>
+        #chat-container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            height: 500px;
+            overflow-y: auto;
+        }
+        #input-container {
+            width: 80%;
+            margin: 20px auto;
+            display: flex;
+        }
+        #user-input {
+            flex-grow: 1;
+            padding: 10px;
+            margin-right: 10px;
+        }
+        #send-button {
+            padding: 10px 20px;
+        }
+        .message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .system-message {
+            background-color: #f0f0f0;
+        }
+        .user-message {
+            background-color: #e3f2fd;
+            text-align: right;
+        }
+        .title {
+            text-align: center;
+            font-size: 2em;
+            margin: 20px 0;
+            color: #2c3e50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">HerbAgent: AI Herbal Target Analysis System</div>
+    <div id="chat-container"></div>
+    <div id="input-container">
+        <input type="text" id="user-input" placeholder="Enter your message...">
+        <button id="send-button">Send</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script>
+        var socket = io();
+        var chatContainer = document.getElementById('chat-container');
+        var userInput = document.getElementById('user-input');
+        var sendButton = document.getElementById('send-button');
+        var inputEnabled = true;
+
+        function addMessage(message, isUser) {
+            var messageDiv = document.createElement('div');
+            messageDiv.className = 'message ' + (isUser ? 'user-message' : 'system-message');
+            messageDiv.textContent = message;
+            chatContainer.appendChild(messageDiv);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        socket.on('output', function(msg) {
+            addMessage(msg.data, false);
+        });
+
+        socket.on('waiting_input', function() {
+            inputEnabled = true;
+            userInput.disabled = false;
+            sendButton.disabled = false;
+        });
+
+        function sendMessage() {
+            if (!inputEnabled) return;
+            
+            var message = userInput.value.trim();
+            if (message) {
+                socket.emit('user_input', {data: message});
+                addMessage(message, true);
+                userInput.value = '';
+                inputEnabled = false;
+                userInput.disabled = true;
+                sendButton.disabled = true;
+            }
+        }
+
+        sendButton.onclick = sendMessage;
+        userInput.onkeypress = function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        };
+    </script>
+</body>
+</html> 

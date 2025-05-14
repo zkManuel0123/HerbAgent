@@ -1,0 +1,56 @@
+cd /mnt/caowanchen/JZX_Network_medicine/
+ll
+setsid python3 Proximity.py -i_disease data/JZX_dataset.csv -i_drug data/9fang-geneID-zong.txt -i_interactome data/PPI_Dataset.csv -nsims 100 &
+
+cat *.txt >> 9fang-geneID-zong_proximity.txt
+
+
+
+
+Xshell断开连接后仍保持服务器程序执行的方法（nohup,tmux）
+正则化
+于 2019-05-08 17:29:25 发布
+阅读量2.2w
+收藏 164
+点赞数 42
+版权
+
+我们知道，xshell连接到服务器后，如果我们直接在xshell窗口里运行程序，那么一旦因为网络故障之类的原因导致xhsell断开连接的话，这个程序就会中止运行，这对于那些需要运行很久才能得出结果的程序来说简直是灭顶之灾（比如要训练好多天的深度学习模型），所以我们要借助tmux、nohup这类工具来使得我们的程序可以在后台运行，即使xshell断开连接也不会影响到程序的运行，重新连接之后再打开这个工具就可以看到程序的运行情况了。
+
+tmux比nohup方便，建议使用tmux。
+一、tmux
+
+先安装tmux：
+
+sudo apt-get install tmux
+
+然后就可以新开一个会话了：
+
+tmux new -s session_name 
+
+这个会话相当于一个后台进程，你可以在这个会话里运行程序，这个会话会一直存在，直到你用命令把他删掉。只要会话还存在，里面的程序就会一直运行。所以这个会话里的程序不会因为你关闭xshell就自动停止。
+
+在会话里启动进程后，回到原本界面的方法：
+
+先按下ctrl+b，然后再单独按d
+
+回到原本界面之后，会话里的程序仍然在运行，此时再重新回到会话里查看程序运行情况的命令：
+
+tmux a -t session_name 
+
+也可以同时新建多个会话，如命名为s1,s2,s3等等。在会话间切换的命令（不一定需要在单独一个xshell窗口里切换会话，还不如多开几个xhsell窗口来各自打开一个会话，这样更方便）：
+
+先按ctrl+b ，再按s，然后就可以在会话间选择其中一个，按enter进入。
+
+有时候会话中只能显示一页的程序运行信息，这个时候可以这样查看会话中历史信息记录
+
+先按ctrl+b，然后按Page Up ，Page Down
+
+如果程序已经都运行完了，就可以删除会话了，删除会话的命令：
+
+ tmux kill -session -t session_name
+
+有同学问，这样用tmux创建多个会话来运行多个程序的话，跟创建多个xshell窗口来运行多个程序有什么不同呢？不同之处就在于，前者即使电脑死机导致xshell断开连接，之前运行的程序还会在服务器中继续运行；而后者如果xshelll断开连接，所有窗口的程序都会自动结束运行，特别是深度学习模型需要训练很久，中途结束就会导致前功尽弃。
+————————————————
+版权声明：本文为CSDN博主「正则化」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/weixin_41519463/article/details/89963166
