@@ -273,7 +273,21 @@ We would like to thank:
 - **LLM providers** such as OpenAI and Anthropic  
 - **Databases**: TCMSP, PubChem, UniProt, STRING, DrugBank  
 - **Libraries**: NetworkX, igraph, Plotly, Cytoscape  
-- **Contributors & Testers** who supported and improved the project  
+- **Contributors & Testers** who supported and improved the project
+
+📚 Citation
+
+If you use HerbAgent in your research or project, please cite it as follows:
+```
+@misc{HerbAgent2025,
+  author       = {Zhao, K.},
+  title        = {HerbAgent: An AI-Powered Framework for Traditional Chinese Medicine Network Pharmacology},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/zkManuel0123/HerbAgent}},
+}
+```
 
 ---
 
