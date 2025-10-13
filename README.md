@@ -42,6 +42,11 @@ HerbAgent is built with the following goals:
 
 ## 2. Core Concepts & Architecture
 
+<img width="2228" height="435" alt="image" src="https://github.com/user-attachments/assets/e634e27f-1fe4-4b9f-833e-595ebec76ac6" />
+
+
+<img width="2186" height="1213" alt="image" src="https://github.com/user-attachments/assets/9dc1e9fb-8fc9-4b31-8e1a-70e7ee5998a3" />
+
 ### Multi-Agent Architecture  
 
 HerbAgent employs a **multi-agent system**, where each agent is responsible for a specific subtask in the research workflow:  
