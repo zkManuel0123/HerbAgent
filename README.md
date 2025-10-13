@@ -44,9 +44,6 @@ HerbAgent is built with the following goals:
 
 <img width="2228" height="435" alt="image" src="https://github.com/user-attachments/assets/e634e27f-1fe4-4b9f-833e-595ebec76ac6" />
 
-
-<img width="2186" height="1213" alt="image" src="https://github.com/user-attachments/assets/9dc1e9fb-8fc9-4b31-8e1a-70e7ee5998a3" />
-
 ### Multi-Agent Architecture  
 
 HerbAgent employs a **multi-agent system**, where each agent is responsible for a specific subtask in the research workflow:  
@@ -58,13 +55,18 @@ HerbAgent employs a **multi-agent system**, where each agent is responsible for 
 
 This modular division ensures clarity, maintainability, and extensibility.
 
+<img width="2186" height="1213" alt="image" src="https://github.com/user-attachments/assets/9dc1e9fb-8fc9-4b31-8e1a-70e7ee5998a3" />
+
 ### Data Flow & Control Flow  
 
 1. **Input Stage** – User inputs herbs/formulas, syndromes, or diseases.  
 2. **Agent Collaboration** – Each agent works sequentially or concurrently, exchanging intermediate outputs.  
 3. **Network & Analysis Stage** – Constructs and analyzes networks using graph algorithms and biological data.  
 4. **Report Generation** – A Report Agent compiles results into readable summaries, explanations, and visualizations.  
-5. **User Interaction** (optional) – Users can refine or query agents interactively, forming a feedback loop.  
+5. **User Interaction** (optional) – Users can refine or query agents interactively, forming a feedback loop.
+
+<img width="1426" height="1189" alt="image" src="https://github.com/user-attachments/assets/3f6fa150-799d-4324-b25a-f3620bca9bc2" />
+
 
 ### Extensibility  
 
