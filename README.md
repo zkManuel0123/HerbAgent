@@ -65,7 +65,7 @@ This modular division ensures clarity, maintainability, and extensibility.
 2. **Agent Collaboration** – Each agent works sequentially or concurrently, exchanging intermediate outputs.  
 3. **Network & Analysis Stage** – Constructs and analyzes networks using graph algorithms and biological data.  
 4. **Report Generation** – A Report Agent compiles results into readable summaries, explanations, and visualizations.  
-5. **User Interaction** (optional) – Users can refine or query agents interactively, forming a feedback loop.
+5. **Human-in-the-loop** – Users can refine or query agents interactively, forming a feedback loop.
 
 <img width="1426" height="1189" alt="image" src="https://github.com/user-attachments/assets/3f6fa150-799d-4324-b25a-f3620bca9bc2" />
 
