@@ -7,7 +7,7 @@ HerbAgent aims to assist researchers in TCM by integrating **Large Language Mode
 ## 🧪 Research Paper
 **Title:** Safe Biomedical Natural Language Inference for Clinical Trials  
 
- 📄 [Read the paper (PDF)](https://github.com/yourname/yourrepo/raw/main/paper.pdf)
+ 📄 **[Read the paper (PDF)](https://github.com/zkManuel0123/HerbAgent/blob/main/HerbAgent.pdf)**
 
  📺 [Watch the HerbAgent Demo on YouTube](https://www.youtube.com/watch?v=M2J1N40AdJkx)
 ---
