@@ -1,12 +1,10 @@
-# HerbAgent — AI-Powered Framework for Traditional Chinese Medicine Network Pharmacology  
+# HerbAgent: Leveraging LLM Agents to Automate and Accelerate Scalable Network Pharmacology  
 
 *“HerbAgent is an AI multi-agent research framework designed to automate and enhance workflows in Traditional Chinese Medicine (TCM) network pharmacology.”*  
 
 HerbAgent aims to assist researchers in TCM by integrating **Large Language Models (LLMs)** and **Multi-Agent Systems** to automate repetitive data processing, hypothesis generation, and network analysis — allowing scientists to focus more on discovery rather than manual tasks.
 
-## 🧪 Research Paper
-**Title:** Safe Biomedical Natural Language Inference for Clinical Trials  
-
+### 🧪 Research Paper 
  📄 **[Read the paper (PDF)](https://github.com/zkManuel0123/HerbAgent/blob/main/HerbAgent.pdf)**
 
  📺 [Watch the HerbAgent Demo on YouTube](https://www.youtube.com/watch?v=M2J1N40AdJkx)
