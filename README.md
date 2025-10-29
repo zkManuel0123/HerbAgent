@@ -285,7 +285,7 @@ If you use HerbAgent in your research or project, please cite it as follows:
 ```
 @misc{HerbAgent2025,
   author       = {Zhao, K.},
-  title        = {HerbAgent: An AI-Powered Framework for Traditional Chinese Medicine Network Pharmacology},
+  title        = {HerbAgent: Leveraging LLM Agents to Automate and Accelerate Scalable Network Pharmacology},
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
