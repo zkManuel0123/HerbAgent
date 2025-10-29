@@ -4,7 +4,7 @@
 
 HerbAgent aims to assist researchers in TCM by integrating **Large Language Models (LLMs)** and **Multi-Agent Systems** to automate repetitive data processing, hypothesis generation, and network analysis — allowing scientists to focus more on discovery rather than manual tasks.
 
-### 📄 Research Paper   **[Read the paper (PDF)](https://github.com/zkManuel0123/HerbAgent/blob/main/HerbAgent.pdf)**
+ 📄 **Research Paper**   **[Read the paper (PDF)](https://github.com/zkManuel0123/HerbAgent/blob/main/HerbAgent.pdf)**
  
 
  📺 [Watch the HerbAgent Demo on YouTube](https://www.youtube.com/watch?v=M2J1N40AdJkx)
